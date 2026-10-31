@@ -1,7 +1,7 @@
 // ⚠️ DEMO DATA — every doctor below is fictional. Hospitals are real institutions
 // named for illustration only; phones & BMDC numbers are placeholders.
 
-export const DOCTORS = [
+const HAND_WRITTEN = [
   {
     slug: 'dr-farhana-rahman',
     name: 'Prof. Dr. Farhana Rahman',
@@ -472,3 +472,197 @@ export const DOCTORS = [
     ],
   },
 ];
+
+/* ---------- generated profiles (equally fictional) ---------- */
+
+const HOSPITAL_POOL = {
+  Dhaka: [
+    ['Square Hospitals Ltd.', '18/F West Panthapath, Dhaka 1205'],
+    ['United Hospital Ltd.', 'Plot 15, Road 71, Gulshan-2, Dhaka'],
+    ['Evercare Hospital Dhaka', 'Plot 81, Block E, Bashundhara R/A, Dhaka'],
+    ['Green Life Hospital', '32 Green Road, Dhanmondi, Dhaka'],
+    ['Asgar Ali Hospital', '111/1/A Distillery Road, Gandaria, Dhaka'],
+    ['Labaid Specialized Hospital', 'House 6, Road 4, Dhanmondi, Dhaka'],
+  ],
+  Chattogram: [
+    ['Evercare Hospital Chattogram', 'Boro Dighirpar, Anandabazar, Chattogram'],
+    ['Parkview Hospital, Chattogram', 'Katalganj, Panchlaish, Chattogram'],
+    ['Popular Diagnostic Centre, Chattogram', 'CDA Avenue, Nasirabad, Chattogram'],
+  ],
+  Sylhet: [
+    ['Ibn Sina Hospital Sylhet', 'Subhanighat, Sylhet 3100'],
+    ['Mount Adora Hospital, Sylhet', 'Akhalia, Sylhet'],
+  ],
+  Rajshahi: [
+    ['Popular Diagnostic Centre, Rajshahi', 'Laxmipur Mor, Rajpara, Rajshahi'],
+    ['Islami Bank Medical College Hospital, Rajshahi', 'Nawdapara, Airport Road, Rajshahi'],
+  ],
+  Khulna: [
+    ['Gazi Medical College Hospital', 'Sonadanga, Khulna'],
+    ['Khulna City Medical College Hospital', 'KDA Avenue, Khulna'],
+  ],
+  Rangpur: [
+    ['Popular Diagnostic Centre, Rangpur', 'Dhap, Jail Road, Rangpur'],
+    ['Rangpur Community Medical College Hospital', 'Medical East Gate, Rangpur'],
+  ],
+  Barishal: [
+    ['Barishal Central Hospital', 'Band Road, Barishal'],
+    ['Bell View Medical Services, Barishal', 'Hospital Road, Barishal'],
+  ],
+  Mymensingh: [
+    ['Mymensingh Medicare Centre', 'Choto Bazar, Mymensingh'],
+    ['Pranto Specialized Hospital, Mymensingh', 'Charpara Mor, Mymensingh'],
+  ],
+  Cumilla: [
+    ['Moon Hospital, Cumilla', 'Jhawtala, Cumilla'],
+    ['Cumilla Medical Centre', 'Laksam Road, Cumilla'],
+  ],
+  Bogura: [
+    ['TMSS Medical Centre, Bogura', 'Thengamara, Rangpur Road, Bogura'],
+    ['Doctors Clinic, Bogura', 'Sherpur Road, Bogura'],
+  ],
+};
+
+// [name, nameBn, gender, specialty, degrees[], designation, workplace, years, district]
+const GEN = [
+  ['Dr. Imran Kabir', 'ডা. ইমরান কবির', 'Male', 'Neurosurgery', ['MBBS (DMC)', 'MS (Neurosurgery)'], 'Consultant Neurosurgeon', 'National Institute of Neurosciences & Hospital', 14, 'Dhaka'],
+  ['Prof. Dr. Shahana Begum', 'প্রফেসর ডা. শাহানা বেগম', 'Female', 'Oncology', ['MBBS (SSMC)', 'MD (Oncology)', 'Fellowship (India)'], 'Professor of Oncology', 'National Institute of Cancer Research & Hospital', 21, 'Dhaka'],
+  ['Dr. Rashedul Karim', 'ডা. রাশেদুল করিম', 'Male', 'Nephrology', ['MBBS (DMC)', 'MD (Nephrology)'], 'Consultant Nephrologist', 'National Institute of Kidney Diseases & Urology', 12, 'Dhaka'],
+  ['Dr. Tahmina Sultana', 'ডা. তাহমিনা সুলতানা', 'Female', 'Diabetes & Endocrinology', ['MBBS (HFRCMC)', 'MD (Endocrinology)', 'CCD (BIRDEM)'], 'Consultant Endocrinologist', 'BIRDEM General Hospital, Dhaka', 10, 'Dhaka'],
+  ['Dr. Abul Kalam Azad', 'ডা. আবুল কালাম আজাদ', 'Male', 'Pulmonology', ['MBBS (SBMC)', 'FCPS (Pulmonology)', 'MD (Chest)'], 'Consultant Chest Specialist', 'National Institute of Diseases of Chest & Hospital', 16, 'Dhaka'],
+  ['Dr. Farzana Hossain', 'ডা. ফারজানা হোসেন', 'Female', 'Dentistry', ['BDS (DDC)', 'FCPS (Oral & Maxillofacial Surgery)'], 'Oral & Dental Surgeon', 'Dhaka Dental College Hospital', 9, 'Dhaka'],
+  ['Prof. Dr. Golam Rabbani', 'প্রফেসর ডা. গোলাম রব্বানী', 'Male', 'Rheumatology', ['MBBS (DMC)', 'MD (Rheumatology)', 'FACR (USA)'], 'Professor of Rheumatology', 'BSMMU, Dhaka', 23, 'Dhaka'],
+  ['Dr. Sabrina Chowdhury', 'ডা. সাবরিনা চৌধুরী', 'Female', 'Family Medicine', ['MBBS (CMC)', 'MCGP', 'DFM'], 'Family Physician', 'Chattogram General Hospital', 8, 'Chattogram'],
+  ['Dr. Mizanur Rahman', 'ডা. মিজানুর রহমান', 'Male', 'Cardiology', ['MBBS (CMC)', 'D-Card (NICVD)', 'MD (Cardiology)'], 'Consultant Cardiologist', 'Chattogram Medical College Hospital', 15, 'Chattogram'],
+  ['Dr. Ismat Ara', 'ডা. ইসমত আরা', 'Female', 'Pediatrics', ['MBBS (CMC)', 'FCPS (Paediatrics)'], 'Consultant Paediatrician', 'Chattogram Maa-O-Shishu Hospital', 11, 'Chattogram'],
+  ['Dr. Shakil Mahmud', 'ডা. শাকিল মাহমুদ', 'Male', 'Orthopedics', ['MBBS (SOMC)', 'MS (Orthopedics)'], 'Orthopedic & Trauma Surgeon', 'Sylhet MAG Osmani Medical College Hospital', 12, 'Sylhet'],
+  ['Dr. Rumana Afroz', 'ডা. রুমানা আফরোজ', 'Female', 'Gynecology & Obstetrics', ['MBBS (SOMC)', 'FCPS (Gynae & Obs)'], 'Gynecologist & Obstetric Surgeon', "Sylhet Women's Medical College Hospital", 10, 'Sylhet'],
+  ['Dr. Zahirul Haque', 'ডা. জহিরুল হক', 'Male', 'Internal Medicine', ['MBBS (RMC)', 'FCPS (Medicine)'], 'Consultant Physician', 'Rajshahi Medical College Hospital', 17, 'Rajshahi'],
+  ['Dr. Nasrin Akhter', 'ডা. নাসরিন আক্তার', 'Female', 'Dermatology', ['MBBS (RMC)', 'DDV', 'MD (Dermatology)'], 'Skin & VD Specialist', 'Rajshahi Medical College Hospital', 9, 'Rajshahi'],
+  ['Dr. Masud Parvez', 'ডা. মাসুদ পারভেজ', 'Male', 'ENT', ['MBBS (KMC)', 'DLO', 'FCPS (ENT)'], 'ENT & Head-Neck Surgeon', 'Khulna Medical College Hospital', 13, 'Khulna'],
+  ['Dr. Shirin Sultana', 'ডা. শিরিন সুলতানা', 'Female', 'Ophthalmology', ['MBBS (KMC)', 'DO', 'FCPS (Ophthalmology)'], 'Eye Specialist & Phaco Surgeon', 'Khulna BNSB Eye Hospital', 11, 'Khulna'],
+  ['Dr. Anisur Rahman', 'ডা. আনিসুর রহমান', 'Male', 'Urology', ['MBBS (RpMC)', 'MS (Urology)'], 'Consultant Urologist', 'Rangpur Medical College Hospital', 12, 'Rangpur'],
+  ['Dr. Taslima Khatun', 'ডা. তাসলিমা খাতুন', 'Female', 'Gastroenterology', ['MBBS (RpMC)', 'MD (Gastroenterology)'], 'Gastro, Liver & Pancreatic Specialist', 'Rangpur Medical College Hospital', 10, 'Rangpur'],
+  ['Dr. Habibur Rahman', 'ডা. হাবিবুর রহমান', 'Male', 'Neurology', ['MBBS (ShSMC)', 'MD (Neurology)'], 'Consultant Neurologist', 'Sher-e-Bangla Medical College, Barishal', 11, 'Barishal'],
+  ['Dr. Fahmida Yasmin', 'ডা. ফাহমিদা ইয়াসমিন', 'Female', 'Psychiatry', ['MBBS (MMC)', 'MD (Psychiatry)'], 'Consultant Psychiatrist', 'Mymensingh Medical College Hospital', 9, 'Mymensingh'],
+  ['Prof. Dr. Omar Faruque', 'প্রফেসর ডা. ওমর ফারুক', 'Male', 'Cardiology', ['MBBS (CoMC)', 'MD (Cardiology)', 'FSCAI'], 'Professor & Interventional Cardiologist', 'Cumilla Medical College Hospital', 24, 'Cumilla'],
+  ['Dr. Jannatul Ferdous', 'ডা. জান্নাতুল ফেরদৌস', 'Female', 'Gynecology & Obstetrics', ['MBBS (CoMC)', 'FCPS (Gynae & Obs)'], 'Gynecologist & Infertility Specialist', 'Cumilla Medical College Hospital', 13, 'Cumilla'],
+  ['Dr. Selim Reza', 'ডা. সেলিম রেজা', 'Male', 'Internal Medicine', ['MBBS (SZMC)', 'FCPS (Medicine)', 'MACP (USA)'], 'Consultant Physician', 'Shaheed Ziaur Rahman Medical College, Bogura', 14, 'Bogura'],
+  ['Dr. Mahfuza Khanam', 'ডা. মাহফুজা খানম', 'Female', 'Pediatrics', ['MBBS (SZMC)', 'DCH', 'FCPS (Paediatrics)'], 'Child Specialist & Neonatologist', 'TMSS Medical College, Bogura', 10, 'Bogura'],
+];
+
+const SCHEDULE_PATTERNS = [
+  [['Sat', '18:00', '21:00'], ['Mon', '18:00', '21:00'], ['Wed', '18:00', '21:00']],
+  [['Sun', '17:00', '20:00'], ['Tue', '17:00', '20:00'], ['Thu', '17:00', '20:00']],
+  [['Sat', '10:00', '13:00'], ['Wed', '10:00', '13:00']],
+  [['Sun', '19:00', '22:00'], ['Thu', '19:00', '22:00']],
+  [['Mon', '16:00', '19:00'], ['Thu', '16:00', '19:00'], ['Fri', '10:00', '12:00']],
+];
+
+const FOCUS = {
+  Neurosurgery: 'brain & spine surgery, tumour removal and trauma care',
+  Oncology: 'chemotherapy planning, radiotherapy coordination and palliative care',
+  Nephrology: 'chronic kidney disease, dialysis and transplant follow-up',
+  'Diabetes & Endocrinology': 'diabetes management, thyroid and hormonal disorders',
+  Pulmonology: 'asthma, COPD, tuberculosis and sleep-related breathing disorders',
+  Dentistry: 'root canal therapy, orthodontics and oral surgery',
+  Rheumatology: 'arthritis, lupus, gout and autoimmune joint conditions',
+  'Family Medicine': 'whole-family primary care, preventive screening and chronic disease follow-up',
+  Cardiology: 'coronary artery disease, hypertension and heart-failure management',
+  Pediatrics: 'newborn care, vaccination, growth and nutrition',
+  'Gynecology & Obstetrics': 'antenatal care, safe delivery and gynaecological surgery',
+  Orthopedics: 'fracture management, joint pain and sports injuries',
+  'Internal Medicine': 'fever, diabetes, hypertension and complex multi-system illness',
+  Dermatology: 'acne, eczema, allergy testing and cosmetic dermatology',
+  ENT: 'sinus disease, hearing problems and head-neck surgery',
+  Ophthalmology: 'cataract surgery, glaucoma and retina screening',
+  Urology: 'kidney stones, prostate disease and male infertility',
+  Gastroenterology: 'liver disease, IBS, endoscopy and colonoscopy',
+  Neurology: 'stroke, epilepsy, migraine and movement disorders',
+  Psychiatry: 'depression, anxiety and addiction medicine',
+};
+
+const slugOf = (name) =>
+  name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+
+const GENERATED = GEN.map((row, i) => {
+  const [name, nameBn, gender, specialty, degrees, designation, workplace, years, district] = row;
+  const pool = HOSPITAL_POOL[district];
+  const nChambers = i % 3 === 0 ? 2 : 1;
+  const chambers = Array.from({ length: nChambers }, (_, c) => {
+    const [hName, hAddress] = pool[(i + c) % pool.length];
+    const fee = Math.round((600 + Math.min(years, 25) * 40) / 100) * 100;
+    return {
+      name: hName,
+      address: hAddress,
+      district,
+      room: `Chamber ${201 + ((i * 7 + c * 3) % 300)}`,
+      phone: `+880 9600-1${String(i).padStart(2, '0')}${c}0${c}`,
+      fee,
+      followUpFee: Math.round(fee * 0.65 / 100) * 100,
+      schedule: SCHEDULE_PATTERNS[(i + c) % SCHEDULE_PATTERNS.length].map(
+        ([day, start, end]) => ({ day, start, end }),
+      ),
+    };
+  });
+  return {
+    slug: slugOf(name),
+    name,
+    nameBn,
+    gender,
+    specialty,
+    degrees,
+    designation,
+    workplace,
+    experienceYears: years,
+    languages: ['Bangla', 'English'],
+    bmdcRegNo: `A-${String(13 + i).padStart(5, '0')} (demo)`,
+    rating: Math.round((4.3 + ((i * 7) % 6) / 10) * 10) / 10,
+    reviewsCount: 40 + i * 13,
+    phone: `+880 1700-0000${13 + i}`,
+    email: `${slugOf(name).replace(/^dr-|^prof-dr-/, '').replace(/-/g, '.')}@example.com`,
+    about: `${designation} focused on ${FOCUS[specialty] ?? 'modern evidence-based care'}, with ${years}+ years of clinical experience at ${workplace}.`,
+    chambers,
+  };
+});
+
+/* ---------- reviews + featured flags for everyone ---------- */
+
+const REVIEWERS = ['Rahim U.', 'Fatema B.', 'Sojib H.', 'Mitu A.', 'Arif K.', 'Shilpi R.', 'Tanim C.', 'Lima S.', 'Rasel M.', 'Nipa J.'];
+const COMMENTS = [
+  'Very attentive — listened to everything patiently and explained the diagnosis clearly.',
+  'Chamber serial was well managed, did not have to wait long.',
+  'Prescribed only necessary tests. Very honest doctor.',
+  'Behaviour is excellent, my family has been visiting for years.',
+  'Explained the medicines and follow-up plan in simple Bangla.',
+  'A bit of a wait at the chamber, but the consultation was worth it.',
+  'Took time to answer every question without rushing.',
+  'Very experienced — recovered well under this treatment, Alhamdulillah.',
+  'Friendly with children and elderly patients alike.',
+  'Follow-up visit fee is reasonable and staff are helpful.',
+];
+
+const FEATURED = new Set([
+  'dr-farhana-rahman',
+  'dr-nusrat-jahan',
+  'dr-sharmin-akter',
+  'dr-rehana-parvin',
+  'dr-imran-kabir',
+  'prof-dr-shahana-begum',
+  'prof-dr-omar-faruque',
+  'dr-tahmina-sultana',
+]);
+
+export const DOCTORS = [...HAND_WRITTEN, ...GENERATED].map((d, i) => ({
+  ...d,
+  featured: FEATURED.has(d.slug),
+  reviews:
+    d.reviews ??
+    Array.from({ length: 2 + (i % 2) }, (_, k) => ({
+      name: REVIEWERS[(i * 3 + k) % REVIEWERS.length],
+      rating: 4 + ((i + k) % 2),
+      comment: COMMENTS[(i * 2 + k) % COMMENTS.length],
+      date: `2025-${String(((i + k) % 12) + 1).padStart(2, '0')}-15`,
+    })),
+}));
+

@@ -6,6 +6,10 @@ import Home from './pages/Home';
 import Doctors from './pages/Doctors';
 import DoctorProfile from './pages/DoctorProfile';
 import Specialties from './pages/Specialties';
+import Hospitals from './pages/Hospitals';
+import HospitalDetail from './pages/HospitalDetail';
+import Join from './pages/Join';
+import About from './pages/About';
 import Saved from './pages/Saved';
 import NotFound from './pages/NotFound';
 import useTheme from './hooks/useTheme';
@@ -26,6 +30,10 @@ export default function App() {
             <Route path="/doctors" element={<Doctors savedHook={savedHook} />} />
             <Route path="/doctors/:slug" element={<DoctorProfile savedHook={savedHook} />} />
             <Route path="/specialties" element={<Specialties />} />
+            <Route path="/hospitals" element={<Hospitals />} />
+            <Route path="/hospitals/:slug" element={<HospitalDetail savedHook={savedHook} />} />
+            <Route path="/join" element={<Join />} />
+            <Route path="/about" element={<About />} />
             <Route path="/saved" element={<Saved savedHook={savedHook} />} />
             <Route path="*" element={<NotFound />} />
           </Routes>

@@ -7,6 +7,7 @@ const links = [
   { to: '/', label: 'Home' },
   { to: '/doctors', label: 'Find Doctors' },
   { to: '/specialties', label: 'Specialties' },
+  { to: '/hospitals', label: 'Hospitals' },
   { to: '/saved', label: 'Saved', icon: Bookmark },
 ];
 

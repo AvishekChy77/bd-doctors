@@ -1,11 +1,11 @@
 import { useEffect, useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { Search, ArrowRight, CalendarCheck, PhoneCall, UserSearch, ShieldCheck } from 'lucide-react';
+import { Search, ArrowRight, CalendarCheck, PhoneCall, UserSearch, ShieldCheck, MapPin, UserPlus } from 'lucide-react';
 import PageWrap, { stagger, fadeUp } from '../components/PageWrap';
 import DoctorCard from '../components/DoctorCard';
 import Stat from '../components/Stat';
-import { SPECIALTIES } from '../lib/constants';
+import { SPECIALTIES, DISTRICTS } from '../lib/constants';
 import { getDoctors, getStats } from '../lib/api';
 
 const steps = [
@@ -21,7 +21,10 @@ export default function Home({ savedHook }) {
   const [stats, setStats] = useState(null);
 
   useEffect(() => {
-    getDoctors({ sort: 'rating' }).then(({ doctors }) => setFeatured(doctors.slice(0, 3)));
+    getDoctors({}).then(({ doctors }) => {
+      const flagged = doctors.filter((d) => d.featured);
+      setFeatured((flagged.length ? flagged : doctors).slice(0, 6));
+    });
     getStats().then(setStats);
   }, []);
 
@@ -162,8 +165,8 @@ export default function Home({ savedHook }) {
       <section className="mx-auto mt-20 max-w-7xl px-4 sm:px-6">
         <div className="mb-8 flex items-end justify-between">
           <div>
-            <h2 className="text-2xl font-extrabold sm:text-3xl">Top-rated doctors</h2>
-            <p className="mt-1 text-sm text-slate-400">Highest patient ratings this month</p>
+            <h2 className="text-2xl font-extrabold sm:text-3xl">Featured doctors</h2>
+            <p className="mt-1 text-sm text-slate-400">Hand-picked specialists trusted by patients</p>
           </div>
           <Link to="/doctors" className="hidden items-center gap-1 text-sm font-bold text-brand-600 hover:underline sm:flex">
             See all doctors <ArrowRight className="size-4" />
@@ -183,6 +186,30 @@ export default function Home({ savedHook }) {
               isSaved={savedHook.isSaved(d.slug)}
               onToggleSave={savedHook.toggle}
             />
+          ))}
+        </motion.div>
+      </section>
+
+      {/* ───── Browse by district ───── */}
+      <section className="mx-auto mt-20 max-w-5xl px-4 text-center sm:px-6">
+        <h2 className="text-2xl font-extrabold sm:text-3xl">Find doctors by district</h2>
+        <p className="font-bangla mt-1 text-sm text-slate-400">আপনার জেলার ডাক্তার খুঁজুন</p>
+        <motion.div
+          variants={stagger}
+          initial="hidden"
+          whileInView="show"
+          viewport={{ once: true, margin: '-40px' }}
+          className="mt-8 flex flex-wrap justify-center gap-2.5"
+        >
+          {DISTRICTS.map((d) => (
+            <motion.span key={d} variants={fadeUp}>
+              <Link
+                to={`/doctors?district=${encodeURIComponent(d)}`}
+                className="inline-flex items-center gap-1.5 rounded-full border border-slate-200/80 bg-white px-5 py-2.5 text-sm font-bold text-slate-600 transition hover:-translate-y-0.5 hover:border-brand-500/50 hover:text-brand-600 hover:shadow-lg dark:border-white/10 dark:bg-slate-900 dark:text-slate-300"
+              >
+                <MapPin className="size-3.5 text-brand-500" /> {d}
+              </Link>
+            </motion.span>
           ))}
         </motion.div>
       </section>
@@ -232,12 +259,20 @@ export default function Home({ savedHook }) {
           <p className="font-bangla mx-auto mt-3 max-w-md text-emerald-50">
             আজই আপনার প্রয়োজনীয় বিশেষজ্ঞের সাথে যোগাযোগ করুন।
           </p>
-          <Link
-            to="/doctors"
-            className="mt-8 inline-flex items-center gap-2 rounded-full bg-white px-8 py-3.5 font-bold text-brand-700 shadow-xl transition hover:scale-105"
-          >
-            Find a doctor now <ArrowRight className="size-4" />
-          </Link>
+          <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
+            <Link
+              to="/doctors"
+              className="inline-flex items-center gap-2 rounded-full bg-white px-8 py-3.5 font-bold text-brand-700 shadow-xl transition hover:scale-105"
+            >
+              Find a doctor now <ArrowRight className="size-4" />
+            </Link>
+            <Link
+              to="/join"
+              className="inline-flex items-center gap-2 rounded-full border-2 border-white/40 px-8 py-3 font-bold text-white transition hover:bg-white/10"
+            >
+              <UserPlus className="size-4" /> Are you a doctor? Join free
+            </Link>
+          </div>
         </motion.div>
       </section>
     </PageWrap>

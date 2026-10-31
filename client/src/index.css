@@ -89,3 +89,17 @@ body {
   scrollbar-width: thin;
   scrollbar-color: color-mix(in srgb, currentColor 25%, transparent) transparent;
 }
+
+/* print-friendly doctor profiles */
+@media print {
+  header,
+  footer,
+  form,
+  .print\:hidden {
+    display: none !important;
+  }
+  body {
+    background: white !important;
+    color: black !important;
+  }
+}

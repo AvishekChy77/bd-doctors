@@ -23,9 +23,21 @@ const chamberSchema = new mongoose.Schema(
   { _id: false },
 );
 
+const reviewSchema = new mongoose.Schema(
+  {
+    name: { type: String, required: true, trim: true, maxlength: 80 },
+    rating: { type: Number, min: 1, max: 5, required: true },
+    comment: { type: String, trim: true, maxlength: 500 },
+    date: String,
+  },
+  { _id: false },
+);
+
 const doctorSchema = new mongoose.Schema(
   {
     slug: { type: String, required: true, unique: true, index: true },
+    featured: { type: Boolean, default: false, index: true },
+    reviews: [reviewSchema],
     name: { type: String, required: true },
     nameBn: String,
     gender: { type: String, enum: ['Male', 'Female', 'Other'] },

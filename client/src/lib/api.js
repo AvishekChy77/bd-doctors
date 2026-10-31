@@ -122,3 +122,27 @@ export async function requestAppointment(payload) {
     return { ok: false, offline: true };
   }
 }
+
+export async function postReview(slug, payload) {
+  try {
+    return await tryFetch(`/doctors/${slug}/reviews`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload),
+    });
+  } catch {
+    return { ok: false, offline: true };
+  }
+}
+
+export async function joinAsDoctor(payload) {
+  try {
+    return await tryFetch('/join', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload),
+    });
+  } catch {
+    return { ok: false, offline: true };
+  }
+}

@@ -22,6 +22,7 @@ export default function Doctors({ savedHook }) {
   const [doctors, setDoctors] = useState([]);
   const [loading, setLoading] = useState(true);
   const [source, setSource] = useState('local');
+  const [visible, setVisible] = useState(12);
 
   // keep URL shareable
   useEffect(() => {
@@ -39,6 +40,7 @@ export default function Doctors({ savedHook }) {
       getDoctors(filters).then(({ doctors, source }) => {
         setDoctors(doctors);
         setSource(source);
+        setVisible(12);
         setLoading(false);
       });
     }, 250);
@@ -90,29 +92,41 @@ export default function Doctors({ savedHook }) {
             <Loader2 className="size-8 animate-spin text-brand-500" />
           </div>
         ) : (
-          <motion.div
-            key={JSON.stringify(filters)}
-            variants={stagger}
-            initial="hidden"
-            animate="show"
-            className="grid content-start gap-5 sm:grid-cols-2 xl:grid-cols-3"
-          >
-            {doctors.length === 0 ? (
-              <EmptyState
-                title="No doctors match your filters"
-                hint="Try removing a filter or searching a different term."
-              />
-            ) : (
-              doctors.map((d) => (
-                <DoctorCard
-                  key={d.slug}
-                  doctor={d}
-                  isSaved={savedHook.isSaved(d.slug)}
-                  onToggleSave={savedHook.toggle}
+          <div>
+            <motion.div
+              key={JSON.stringify(filters)}
+              variants={stagger}
+              initial="hidden"
+              animate="show"
+              className="grid content-start gap-5 sm:grid-cols-2 xl:grid-cols-3"
+            >
+              {doctors.length === 0 ? (
+                <EmptyState
+                  title="No doctors match your filters"
+                  hint="Try removing a filter or searching a different term."
                 />
-              ))
+              ) : (
+                doctors.slice(0, visible).map((d) => (
+                  <DoctorCard
+                    key={d.slug}
+                    doctor={d}
+                    isSaved={savedHook.isSaved(d.slug)}
+                    onToggleSave={savedHook.toggle}
+                  />
+                ))
+              )}
+            </motion.div>
+            {visible < doctors.length && (
+              <div className="mt-8 text-center">
+                <button
+                  onClick={() => setVisible((v) => v + 12)}
+                  className="rounded-full bg-slate-900 px-8 py-3 text-sm font-bold text-white transition hover:bg-brand-600 dark:bg-white/10 dark:hover:bg-brand-600"
+                >
+                  Load more ({doctors.length - visible} remaining)
+                </button>
+              </div>
             )}
-          </motion.div>
+          </div>
         )}
       </div>
     </PageWrap>

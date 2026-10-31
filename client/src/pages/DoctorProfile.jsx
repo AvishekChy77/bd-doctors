@@ -7,6 +7,8 @@ import {
 } from 'lucide-react';
 import PageWrap, { stagger, fadeUp } from '../components/PageWrap';
 import ScheduleTable from '../components/ScheduleTable';
+import ProfileActions from '../components/ProfileActions';
+import Reviews from '../components/Reviews';
 import { avatarGradient, initials, specialtyMeta, DAYS } from '../lib/constants';
 import { getDoctor, requestAppointment } from '../lib/api';
 
@@ -138,6 +140,9 @@ export default function DoctorProfile({ savedHook }) {
                 <BadgeCheck className="size-4 text-brand-500" /> BMDC: {doctor.bmdcRegNo}
               </span>
             </div>
+            <div className="mt-4">
+              <ProfileActions doctor={doctor} />
+            </div>
           </div>
 
           <div className="flex gap-2 sm:flex-col">
@@ -239,6 +244,8 @@ export default function DoctorProfile({ savedHook }) {
               </motion.section>
             ))}
           </motion.div>
+
+          <Reviews key={doctor.slug} doctor={doctor} />
         </div>
 
         {/* sidebar */}

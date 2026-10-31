@@ -46,6 +46,34 @@ router.get('/', async (req, res, next) => {
   }
 });
 
+// POST /api/doctors/:slug/reviews
+router.post('/:slug/reviews', async (req, res, next) => {
+  try {
+    const { name, rating, comment = '' } = req.body ?? {};
+    const numRating = Number(rating);
+    if (!name || !numRating || numRating < 1 || numRating > 5) {
+      return res.status(400).json({ ok: false, error: 'name and rating (1–5) are required' });
+    }
+    const doctor = await Doctor.findOne({ slug: req.params.slug });
+    if (!doctor) return res.status(404).json({ ok: false, error: 'Unknown doctor' });
+
+    doctor.reviews.unshift({
+      name,
+      rating: numRating,
+      comment,
+      date: new Date().toISOString().slice(0, 10),
+    });
+    doctor.reviewsCount = (doctor.reviewsCount ?? 0) + 1;
+    const avg = doctor.reviews.reduce((s, r) => s + r.rating, 0) / doctor.reviews.length;
+    doctor.rating = Math.round(avg * 10) / 10;
+    await doctor.save();
+
+    res.status(201).json({ ok: true, rating: doctor.rating, reviewsCount: doctor.reviewsCount });
+  } catch (err) {
+    next(err);
+  }
+});
+
 // GET /api/doctors/:slug
 router.get('/:slug', async (req, res, next) => {
   try {

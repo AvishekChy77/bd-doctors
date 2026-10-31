@@ -29,7 +29,10 @@ export default function Footer() {
             <ul className="space-y-2 text-slate-500 dark:text-slate-400">
               <li><Link className="hover:text-brand-600" to="/doctors">Find Doctors</Link></li>
               <li><Link className="hover:text-brand-600" to="/specialties">Specialties</Link></li>
+              <li><Link className="hover:text-brand-600" to="/hospitals">Hospitals</Link></li>
               <li><Link className="hover:text-brand-600" to="/saved">Saved Doctors</Link></li>
+              <li><Link className="hover:text-brand-600" to="/join">Join as a Doctor</Link></li>
+              <li><Link className="hover:text-brand-600" to="/about">About & FAQ</Link></li>
             </ul>
           </div>
 
