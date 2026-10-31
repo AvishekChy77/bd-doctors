@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 import { ArrowLeft, Building2, MapPin, Loader2 } from 'lucide-react';
 import PageWrap, { stagger } from '../components/PageWrap';
 import DoctorCard from '../components/DoctorCard';
+import ChamberMap from '../components/ChamberMap';
 import { getHospital } from '../lib/hospitals';
 
 export default function HospitalDetail({ savedHook }) {
@@ -77,6 +78,15 @@ export default function HospitalDetail({ savedHook }) {
           Get directions ↗
         </a>
       </motion.section>
+
+      <motion.div
+        initial={{ opacity: 0, y: 16 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.15 }}
+        className="mt-6"
+      >
+        <ChamberMap query={`${hospital.name}, ${hospital.address}`} open />
+      </motion.div>
 
       <h2 className="mt-10 mb-6 text-xl font-extrabold">
         {hospital.doctors.length} doctor{hospital.doctors.length > 1 ? 's' : ''} at this hospital

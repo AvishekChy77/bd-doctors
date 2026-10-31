@@ -9,6 +9,7 @@ import PageWrap, { stagger, fadeUp } from '../components/PageWrap';
 import ScheduleTable from '../components/ScheduleTable';
 import ProfileActions from '../components/ProfileActions';
 import Reviews from '../components/Reviews';
+import ChamberMap from '../components/ChamberMap';
 import { avatarGradient, initials, specialtyMeta, DAYS } from '../lib/constants';
 import { getDoctor, requestAppointment } from '../lib/api';
 
@@ -225,7 +226,7 @@ export default function DoctorProfile({ savedHook }) {
                 <div className="mt-4">
                   <ScheduleTable schedule={c.schedule} />
                 </div>
-                <div className="mt-4 flex flex-wrap gap-2">
+                <div className="mt-4 flex flex-wrap items-start gap-2">
                   <a
                     href={`tel:${c.phone.replace(/[^+\d]/g, '')}`}
                     className="flex items-center gap-1.5 rounded-xl bg-slate-900 px-4 py-2 text-xs font-bold text-white transition hover:bg-brand-600 dark:bg-white/10 dark:hover:bg-brand-600"
@@ -238,8 +239,11 @@ export default function DoctorProfile({ savedHook }) {
                     rel="noreferrer"
                     className="flex items-center gap-1.5 rounded-xl bg-slate-900/5 px-4 py-2 text-xs font-bold text-slate-600 transition hover:bg-slate-900/10 dark:bg-white/10 dark:text-slate-300"
                   >
-                    <MapPin className="size-3.5" /> View on map
+                    <MapPin className="size-3.5" /> Open in Maps ↗
                   </a>
+                </div>
+                <div className="mt-2">
+                  <ChamberMap query={`${c.name}, ${c.address}`} />
                 </div>
               </motion.section>
             ))}
