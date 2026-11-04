@@ -6,7 +6,7 @@ import PageWrap, { stagger } from '../components/PageWrap';
 import DoctorCard from '../components/DoctorCard';
 import FilterPanel from '../components/FilterPanel';
 import EmptyState from '../components/EmptyState';
-import { getDoctors } from '../lib/api';
+import { getDoctors, getSpecialtyCounts } from '../lib/api';
 
 export default function Doctors({ savedHook }) {
   const [params, setParams] = useSearchParams();
@@ -23,6 +23,13 @@ export default function Doctors({ savedHook }) {
   const [loading, setLoading] = useState(true);
   const [source, setSource] = useState('local');
   const [visible, setVisible] = useState(12);
+  const [specialtyOptions, setSpecialtyOptions] = useState([]);
+
+  useEffect(() => {
+    getSpecialtyCounts().then((list) =>
+      setSpecialtyOptions(list.sort((a, b) => b.count - a.count).map((s) => s.name)),
+    );
+  }, []);
 
   // keep URL shareable
   useEffect(() => {
@@ -84,7 +91,7 @@ export default function Doctors({ savedHook }) {
               className="w-full bg-transparent py-2 text-sm font-medium outline-none"
             />
           </div>
-          <FilterPanel filters={filters} setFilters={setFilters} />
+          <FilterPanel filters={filters} setFilters={setFilters} specialtyOptions={specialtyOptions} />
         </div>
 
         {loading ? (

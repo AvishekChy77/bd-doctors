@@ -3,8 +3,9 @@ import { Link, useParams } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import {
   ArrowLeft, Star, Bookmark, Phone, Mail, MapPin, BadgeCheck,
-  GraduationCap, Languages, Briefcase, Building2, Loader2, Banknote, Send,
+  GraduationCap, Languages, Briefcase, Building2, Loader2, Banknote, Send, Stethoscope,
 } from 'lucide-react';
+import NotPublished from '../components/NotPublished';
 import PageWrap, { stagger, fadeUp } from '../components/PageWrap';
 import ScheduleTable from '../components/ScheduleTable';
 import ProfileActions from '../components/ProfileActions';
@@ -128,17 +129,30 @@ export default function DoctorProfile({ savedHook }) {
             <h1 className="mt-2 text-2xl font-extrabold tracking-tight sm:text-3xl">{doctor.name}</h1>
             <p className="font-bangla text-slate-500 dark:text-slate-400">{doctor.nameBn}</p>
             <p className="mt-2 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-slate-500 dark:text-slate-400">
-              <span className="flex items-center gap-1"><Briefcase className="size-3.5 text-brand-500" />{doctor.designation}</span>
-              <span className="flex items-center gap-1"><Building2 className="size-3.5 text-brand-500" />{doctor.workplace}</span>
+              {doctor.designation && (
+                <span className="flex items-center gap-1"><Briefcase className="size-3.5 text-brand-500" />{doctor.designation}</span>
+              )}
+              {doctor.workplace && (
+                <span className="flex items-center gap-1"><Building2 className="size-3.5 text-brand-500" />{doctor.workplace}</span>
+              )}
             </p>
             <div className="mt-3 flex flex-wrap items-center gap-4 text-sm">
-              <span className="flex items-center gap-1 font-bold text-amber-500">
-                <Star className="size-4 fill-current" /> {doctor.rating}
-                <span className="font-medium text-slate-400">({doctor.reviewsCount} reviews)</span>
-              </span>
-              <span className="font-semibold text-slate-500 dark:text-slate-400">{doctor.experienceYears}+ yrs experience</span>
+              {doctor.reviewsCount > 0 && doctor.rating ? (
+                <span className="flex items-center gap-1 font-bold text-amber-500">
+                  <Star className="size-4 fill-current" /> {doctor.rating}
+                  <span className="font-medium text-slate-400">({doctor.reviewsCount} reviews)</span>
+                </span>
+              ) : (
+                <span className="rounded-full bg-sky-500/10 px-2.5 py-1 text-[10px] font-bold uppercase tracking-wide text-sky-600 dark:text-sky-400">
+                  Newly listed
+                </span>
+              )}
+              {doctor.experienceYears ? (
+                <span className="font-semibold text-slate-500 dark:text-slate-400">{doctor.experienceYears}+ yrs experience</span>
+              ) : null}
               <span className="flex items-center gap-1 text-xs font-semibold text-slate-400">
-                <BadgeCheck className="size-4 text-brand-500" /> BMDC: {doctor.bmdcRegNo}
+                <BadgeCheck className="size-4 text-brand-500" /> BMDC:{' '}
+                {doctor.bmdcRegNo ?? <NotPublished label="BMDC registration number not published yet" />}
               </span>
             </div>
             <div className="mt-4">
@@ -147,12 +161,14 @@ export default function DoctorProfile({ savedHook }) {
           </div>
 
           <div className="flex gap-2 sm:flex-col">
-            <a
-              href={`tel:${doctor.phone.replace(/[^+\d]/g, '')}`}
-              className="flex flex-1 items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-brand-600 to-emerald-600 px-5 py-3 text-sm font-bold text-white shadow-lg shadow-brand-600/25 transition hover:brightness-110"
-            >
-              <Phone className="size-4" /> Call
-            </a>
+            {doctor.phone && (
+              <a
+                href={`tel:${doctor.phone.replace(/[^+\d]/g, '')}`}
+                className="flex flex-1 items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-brand-600 to-emerald-600 px-5 py-3 text-sm font-bold text-white shadow-lg shadow-brand-600/25 transition hover:brightness-110"
+              >
+                <Phone className="size-4" /> Call
+              </a>
+            )}
             <button
               onClick={() => savedHook.toggle(doctor.slug)}
               className={`flex flex-1 items-center justify-center gap-2 rounded-xl px-5 py-3 text-sm font-bold transition ${
@@ -173,7 +189,13 @@ export default function DoctorProfile({ savedHook }) {
           {/* about + qualifications */}
           <motion.section variants={fadeUp} initial="hidden" animate="show" className="rounded-3xl border border-slate-200/70 bg-white p-6 dark:border-white/10 dark:bg-slate-900">
             <h2 className="font-extrabold">About</h2>
-            <p className="mt-2 text-sm leading-relaxed text-slate-500 dark:text-slate-400">{doctor.about}</p>
+            {doctor.about ? (
+              <p className="mt-2 text-sm leading-relaxed text-slate-500 dark:text-slate-400">{doctor.about}</p>
+            ) : (
+              <p className="mt-2 text-sm text-slate-400">
+                <NotPublished label="Biography not published yet" /> Biography not available yet.
+              </p>
+            )}
             <div className="mt-5 grid gap-4 sm:grid-cols-2">
               <div>
                 <h3 className="flex items-center gap-1.5 text-xs font-bold uppercase tracking-wide text-slate-400">
@@ -187,15 +209,40 @@ export default function DoctorProfile({ savedHook }) {
                   ))}
                 </ul>
               </div>
-              <div>
-                <h3 className="flex items-center gap-1.5 text-xs font-bold uppercase tracking-wide text-slate-400">
-                  <Languages className="size-4 text-brand-500" /> Languages
-                </h3>
-                <p className="mt-2 text-sm font-semibold text-slate-600 dark:text-slate-300">
-                  {doctor.languages.join(', ')}
-                </p>
-              </div>
+              {doctor.languages?.length ? (
+                <div>
+                  <h3 className="flex items-center gap-1.5 text-xs font-bold uppercase tracking-wide text-slate-400">
+                    <Languages className="size-4 text-brand-500" /> Languages
+                  </h3>
+                  <p className="mt-2 text-sm font-semibold text-slate-600 dark:text-slate-300">
+                    {doctor.languages.join(', ')}
+                  </p>
+                </div>
+              ) : null}
             </div>
+            {doctor.services?.length ? (
+              <div className="mt-5">
+                <h3 className="flex items-center gap-1.5 text-xs font-bold uppercase tracking-wide text-slate-400">
+                  <Stethoscope className="size-4 text-brand-500" /> Services & focus areas
+                </h3>
+                <ul className="mt-2 flex flex-wrap gap-1.5">
+                  {doctor.services.map((s) => (
+                    <li key={s} className="rounded-full bg-slate-900/5 px-3 py-1 text-xs font-semibold text-slate-600 dark:bg-white/10 dark:text-slate-300">
+                      {s}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ) : null}
+            {doctor.sourceUrl && (
+              <p className="mt-5 border-t border-slate-100 pt-3 text-[11px] text-slate-400 dark:border-white/5">
+                Listing information gathered from{' '}
+                <a href={doctor.sourceUrl} target="_blank" rel="noreferrer" className="underline hover:text-brand-600">
+                  sasthyaseba.com
+                </a>{' '}
+                — verify details with the hospital before visiting.
+              </p>
+            )}
           </motion.section>
 
           {/* chambers */}
@@ -211,28 +258,46 @@ export default function DoctorProfile({ savedHook }) {
                     <h3 className="font-extrabold">{c.name}</h3>
                     <p className="mt-1 flex items-center gap-1.5 text-xs text-slate-500 dark:text-slate-400">
                       <MapPin className="size-3.5 shrink-0 text-brand-500" />
-                      {c.address} · {c.room}
+                      {[c.address, c.room].filter(Boolean).join(' · ')}
                     </p>
                   </div>
                   <div className="flex items-center gap-2 text-sm">
-                    <span className="flex items-center gap-1 rounded-full bg-emerald-500/10 px-3 py-1 font-bold text-emerald-600 dark:text-emerald-400">
-                      <Banknote className="size-3.5" /> ৳{c.fee}
-                    </span>
-                    <span className="rounded-full bg-slate-900/5 px-3 py-1 text-xs font-semibold text-slate-500 dark:bg-white/10 dark:text-slate-400">
-                      follow-up ৳{c.followUpFee}
-                    </span>
+                    {c.fee ? (
+                      <span className="flex items-center gap-1 rounded-full bg-emerald-500/10 px-3 py-1 font-bold text-emerald-600 dark:text-emerald-400">
+                        <Banknote className="size-3.5" /> ৳{c.fee}
+                      </span>
+                    ) : (
+                      <span className="flex items-center gap-1.5 rounded-full bg-slate-900/5 px-3 py-1 text-xs font-semibold dark:bg-white/10">
+                        <Banknote className="size-3.5 text-slate-400" />
+                        <NotPublished label="Consultation fee not published yet — ask the chamber when booking" />
+                      </span>
+                    )}
+                    {c.followUpFee ? (
+                      <span className="rounded-full bg-slate-900/5 px-3 py-1 text-xs font-semibold text-slate-500 dark:bg-white/10 dark:text-slate-400">
+                        follow-up ৳{c.followUpFee}
+                      </span>
+                    ) : null}
                   </div>
                 </div>
                 <div className="mt-4">
-                  <ScheduleTable schedule={c.schedule} />
+                  {c.schedule?.length ? (
+                    <ScheduleTable schedule={c.schedule} />
+                  ) : (
+                    <div className="flex items-center gap-2 rounded-xl border border-dashed border-slate-200 p-3 text-xs text-slate-400 dark:border-white/10">
+                      <NotPublished label="Visiting hours not published yet" />
+                      Visiting hours not published yet — contact the chamber to confirm.
+                    </div>
+                  )}
                 </div>
                 <div className="mt-4 flex flex-wrap items-start gap-2">
-                  <a
-                    href={`tel:${c.phone.replace(/[^+\d]/g, '')}`}
-                    className="flex items-center gap-1.5 rounded-xl bg-slate-900 px-4 py-2 text-xs font-bold text-white transition hover:bg-brand-600 dark:bg-white/10 dark:hover:bg-brand-600"
-                  >
-                    <Phone className="size-3.5" /> {c.phone}
-                  </a>
+                  {c.phone && (
+                    <a
+                      href={`tel:${c.phone.replace(/[^+\d]/g, '')}`}
+                      className="flex items-center gap-1.5 rounded-xl bg-slate-900 px-4 py-2 text-xs font-bold text-white transition hover:bg-brand-600 dark:bg-white/10 dark:hover:bg-brand-600"
+                    >
+                      <Phone className="size-3.5" /> {c.phone}
+                    </a>
+                  )}
                   <a
                     href={`https://www.google.com/maps/search/${encodeURIComponent(`${c.name}, ${c.address}`)}`}
                     target="_blank"
@@ -264,12 +329,20 @@ export default function DoctorProfile({ savedHook }) {
             <p className="mb-4 mt-1 text-xs text-slate-400">The chamber will call back to confirm your serial.</p>
             <AppointmentForm doctor={doctor} />
             <div className="mt-5 space-y-2 border-t border-slate-200/70 pt-4 text-sm dark:border-white/10">
-              <a href={`tel:${doctor.phone.replace(/[^+\d]/g, '')}`} className="flex items-center gap-2 font-semibold text-slate-600 transition hover:text-brand-600 dark:text-slate-300">
-                <Phone className="size-4 text-brand-500" /> {doctor.phone}
-              </a>
-              <a href={`mailto:${doctor.email}`} className="flex items-center gap-2 font-semibold text-slate-600 transition hover:text-brand-600 dark:text-slate-300">
-                <Mail className="size-4 text-brand-500" /> {doctor.email}
-              </a>
+              {doctor.phone ? (
+                <a href={`tel:${doctor.phone.replace(/[^+\d]/g, '')}`} className="flex items-center gap-2 font-semibold text-slate-600 transition hover:text-brand-600 dark:text-slate-300">
+                  <Phone className="size-4 text-brand-500" /> {doctor.phone}
+                </a>
+              ) : (
+                <span className="flex items-center gap-2 text-slate-400">
+                  <Phone className="size-4 text-brand-500" /> <NotPublished label="Phone number not published yet" /> Phone not published
+                </span>
+              )}
+              {doctor.email && (
+                <a href={`mailto:${doctor.email}`} className="flex items-center gap-2 font-semibold text-slate-600 transition hover:text-brand-600 dark:text-slate-300">
+                  <Mail className="size-4 text-brand-500" /> {doctor.email}
+                </a>
+              )}
             </div>
           </motion.section>
         </div>

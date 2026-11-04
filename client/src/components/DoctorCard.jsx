@@ -3,12 +3,15 @@ import { motion } from 'framer-motion';
 import { Star, MapPin, Clock, Bookmark, BadgeCheck } from 'lucide-react';
 import { avatarGradient, initials, specialtyMeta } from '../lib/constants';
 import { fadeUp } from './PageWrap';
+import NotPublished from './NotPublished';
 
 export default function DoctorCard({ doctor, isSaved, onToggleSave }) {
   const meta = specialtyMeta(doctor.specialty);
   const Icon = meta.icon;
-  const minFee = Math.min(...doctor.chambers.map((c) => c.fee));
-  const days = [...new Set(doctor.chambers.flatMap((c) => c.schedule.map((s) => s.day)))];
+  const fees = doctor.chambers.map((c) => c.fee).filter((f) => f > 0);
+  const minFee = fees.length ? Math.min(...fees) : null;
+  const days = [...new Set(doctor.chambers.flatMap((c) => (c.schedule ?? []).map((s) => s.day)))];
+  const workline = [doctor.designation, doctor.workplace].filter(Boolean).join(', ');
 
   return (
     <motion.article
@@ -55,36 +58,48 @@ export default function DoctorCard({ doctor, isSaved, onToggleSave }) {
       </div>
 
       <div className="mt-4 space-y-1.5 text-xs text-slate-500 dark:text-slate-400">
-        <p className="flex items-center gap-1.5">
-          <BadgeCheck className="size-3.5 text-brand-500" />
-          <span className="truncate">{doctor.designation}, {doctor.workplace}</span>
-        </p>
+        {workline && (
+          <p className="flex items-center gap-1.5">
+            <BadgeCheck className="size-3.5 text-brand-500" />
+            <span className="truncate">{workline}</span>
+          </p>
+        )}
         <p className="flex items-center gap-1.5">
           <MapPin className="size-3.5 text-brand-500" />
           <span className="truncate">
-            {[...new Set(doctor.chambers.map((c) => c.district))].join(', ')} ·{' '}
+            {[...new Set(doctor.chambers.map((c) => c.district).filter(Boolean))].join(', ') || '—'} ·{' '}
             {doctor.chambers.length} chamber{doctor.chambers.length > 1 ? 's' : ''}
           </span>
         </p>
         <p className="flex items-center gap-1.5">
           <Clock className="size-3.5 text-brand-500" />
-          {days.join(' · ')}
+          {days.length ? days.join(' · ') : <NotPublished label="Visiting schedule not published yet" />}
         </p>
       </div>
 
       <div className="mt-4 flex items-center justify-between border-t border-slate-100 pt-4 dark:border-white/5">
-        <div className="flex items-center gap-1 text-sm font-bold text-amber-500">
-          <Star className="size-4 fill-current" />
-          {doctor.rating}
-          <span className="text-xs font-medium text-slate-400">
-            ({doctor.reviewsCount})
+        {doctor.reviewsCount > 0 && doctor.rating ? (
+          <div className="flex items-center gap-1 text-sm font-bold text-amber-500">
+            <Star className="size-4 fill-current" />
+            {doctor.rating}
+            <span className="text-xs font-medium text-slate-400">
+              ({doctor.reviewsCount})
+            </span>
+          </div>
+        ) : (
+          <span className="rounded-full bg-sky-500/10 px-2.5 py-1 text-[10px] font-bold uppercase tracking-wide text-sky-600 dark:text-sky-400">
+            Newly listed
           </span>
-        </div>
+        )}
         <div className="text-right">
-          <span className="text-[10px] uppercase tracking-wide text-slate-400">from </span>
-          <span className="font-extrabold text-brand-600 dark:text-brand-400">
-            ৳{minFee}
-          </span>
+          {minFee ? (
+            <>
+              <span className="text-[10px] uppercase tracking-wide text-slate-400">from </span>
+              <span className="font-extrabold text-brand-600 dark:text-brand-400">৳{minFee}</span>
+            </>
+          ) : (
+            <NotPublished label="Consultation fee not published yet" />
+          )}
         </div>
       </div>
 

@@ -19,6 +19,13 @@ import {
   Syringe,
   Hand,
   Users,
+  Slice,
+  Heart,
+  Activity,
+  Microscope,
+  Scan,
+  Dumbbell,
+  Apple,
 } from 'lucide-react';
 
 export const SPECIALTIES = [
@@ -42,10 +49,25 @@ export const SPECIALTIES = [
   { name: 'Diabetes & Endocrinology', bn: 'ডায়াবেটিস', icon: Syringe, chip: 'bg-green-500/10 text-green-600 dark:text-green-400', glow: 'from-green-500/20' },
   { name: 'Rheumatology', bn: 'বাতরোগ', icon: Hand, chip: 'bg-stone-500/10 text-stone-600 dark:text-stone-400', glow: 'from-stone-500/20' },
   { name: 'Family Medicine', bn: 'পারিবারিক চিকিৎসা', icon: Users, chip: 'bg-teal-500/10 text-teal-700 dark:text-teal-300', glow: 'from-teal-500/20' },
+  { name: 'General Surgery', bn: 'সার্জারি', icon: Slice, chip: 'bg-zinc-500/10 text-zinc-600 dark:text-zinc-400', glow: 'from-zinc-500/20' },
+  { name: 'Cardiac Surgery', bn: 'হার্ট সার্জারি', icon: Heart, chip: 'bg-rose-500/10 text-rose-700 dark:text-rose-300', glow: 'from-rose-500/20' },
+  { name: 'Anesthesiology', bn: 'অ্যানেস্থেসিয়া', icon: Activity, chip: 'bg-sky-500/10 text-sky-700 dark:text-sky-300', glow: 'from-sky-500/20' },
+  { name: 'Pathology', bn: 'প্যাথলজি', icon: Microscope, chip: 'bg-violet-500/10 text-violet-700 dark:text-violet-300', glow: 'from-violet-500/20' },
+  { name: 'Radiology', bn: 'রেডিওলজি', icon: Scan, chip: 'bg-cyan-500/10 text-cyan-700 dark:text-cyan-300', glow: 'from-cyan-500/20' },
+  { name: 'Physical Medicine', bn: 'ফিজিক্যাল মেডিসিন', icon: Dumbbell, chip: 'bg-amber-500/10 text-amber-700 dark:text-amber-300', glow: 'from-amber-500/20' },
+  { name: 'Nutrition & Dietetics', bn: 'পুষ্টি', icon: Apple, chip: 'bg-lime-500/10 text-lime-700 dark:text-lime-300', glow: 'from-lime-500/20' },
 ];
 
+const GENERIC_META = {
+  name: 'Specialist',
+  bn: '',
+  icon: Stethoscope,
+  chip: 'bg-slate-500/10 text-slate-600 dark:text-slate-400',
+  glow: 'from-slate-500/20',
+};
+
 export const specialtyMeta = (name) =>
-  SPECIALTIES.find((s) => s.name === name) ?? SPECIALTIES[1];
+  SPECIALTIES.find((s) => s.name === name) ?? { ...GENERIC_META, name: name || 'Specialist' };
 
 export const DISTRICTS = [
   'Dhaka',

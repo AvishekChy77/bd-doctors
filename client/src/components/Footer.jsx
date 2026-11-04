@@ -38,12 +38,13 @@ export default function Footer() {
 
           <div className="rounded-2xl border border-amber-400/30 bg-amber-400/10 p-4 text-xs leading-relaxed text-amber-700 dark:text-amber-300">
             <p className="mb-1 flex items-center gap-1.5 font-bold">
-              <AlertTriangle className="size-3.5" /> Demo data disclaimer
+              <AlertTriangle className="size-3.5" /> Data disclaimer
             </p>
-            All doctor profiles on this site are <b>fictional sample data</b> for
-            demonstration. Hospital names are used for illustration only; phone
-            numbers and BMDC registration numbers are placeholders. Always verify
-            a practitioner via the official BM&DC registry.
+            Listings combine information gathered from public directories (noted
+            on each profile) with clearly-marked demo entries. Details like fees
+            and visiting hours change often — always confirm with the chamber,
+            and verify practitioners via the official BM&DC registry before
+            visiting. Reviews on demo entries are illustrative.
           </div>
         </div>
         <p className="mt-10 text-center text-xs text-slate-400 dark:text-slate-500">

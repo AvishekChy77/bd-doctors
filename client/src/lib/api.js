@@ -46,20 +46,24 @@ function localFilter({ q, specialty, district, gender, day, maxFee, sort }) {
   if (gender) list = list.filter((d) => d.gender === gender);
   if (day)
     list = list.filter((d) =>
-      d.chambers.some((c) => c.schedule.some((s) => s.day === day)),
+      d.chambers.some((c) => (c.schedule ?? []).some((s) => s.day === day)),
     );
+  const minFeeOf = (d) => {
+    const fees = d.chambers.map((c) => c.fee).filter((f) => f > 0);
+    return fees.length ? Math.min(...fees) : null;
+  };
   if (maxFee)
-    list = list.filter((d) => Math.min(...d.chambers.map((c) => c.fee)) <= maxFee);
+    // doctors without a published fee are kept — we can't rule them out
+    list = list.filter((d) => {
+      const f = minFeeOf(d);
+      return f === null || f <= maxFee;
+    });
 
   if (sort === 'fee-asc')
-    list.sort(
-      (a, b) =>
-        Math.min(...a.chambers.map((c) => c.fee)) -
-        Math.min(...b.chambers.map((c) => c.fee)),
-    );
+    list.sort((a, b) => (minFeeOf(a) ?? Infinity) - (minFeeOf(b) ?? Infinity));
   else if (sort === 'experience')
-    list.sort((a, b) => b.experienceYears - a.experienceYears);
-  else list.sort((a, b) => b.rating - a.rating);
+    list.sort((a, b) => (b.experienceYears ?? 0) - (a.experienceYears ?? 0));
+  else list.sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0));
 
   return list;
 }

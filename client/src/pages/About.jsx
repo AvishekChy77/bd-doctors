@@ -45,12 +45,15 @@ export default function About() {
         className="mt-10 rounded-3xl border border-amber-400/30 bg-amber-400/10 p-6 text-sm leading-relaxed text-amber-700 dark:text-amber-300"
       >
         <p className="mb-2 flex items-center gap-2 font-bold">
-          <AlertTriangle className="size-4" /> Demo data disclaimer
+          <AlertTriangle className="size-4" /> Data disclaimer
         </p>
-        This is a demonstration project. All doctor profiles are <b>fictional sample
-        data</b>. Hospital names are real institutions used for illustration only;
-        phone numbers, emails and BMDC registration numbers are placeholders. Do not
-        use this site to seek real medical care.
+        This directory mixes two kinds of listings: profiles gathered from public
+        directory sources (each one links to its source at the bottom of the
+        profile), and <b>fictional demo entries</b> kept for demonstration.
+        Where information isn't published — fees, visiting hours, BMDC numbers —
+        we show a "not published" marker instead of inventing it. Details change
+        often: always confirm with the chamber and verify practitioners via the
+        official BM&DC registry (bmdc.org.bd) before visiting.
       </motion.div>
 
       <h2 className="mt-14 flex items-center gap-2 text-2xl font-extrabold">

@@ -1,0 +1,7849 @@
+[
+ {
+  "slug": "dr-kaisar-nasrullah-khan",
+  "srcSlug": "dr-kaisar-nasrullah-khan",
+  "name": "Dr. Kaisar Nasrullah Khan",
+  "degrees": [
+   "MBBS",
+   "MD - Cardiology",
+   "FCPS - Medicine"
+  ],
+  "specialties": [
+   "Cardiologist"
+  ],
+  "experienceYears": null,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "00:00"
+     }
+    ]
+   },
+   {
+    "name": "Continental Hospital PLC",
+    "address": "Plot: 15, Road: 71, Gulshan 2, 9, Gulshan, Dhaka-1212, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "2D - Echocardiography (2D-Echo)",
+   "Cardiac Ablation",
+   "Cardic TMT, ECG, ECHO",
+   "Cardiography",
+   "Cardiovascular treatment",
+   "Echocardiography",
+   "General and Interventional Cardiology",
+   "Cardiac Disease"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-kaisar-nasrullah-khan"
+ },
+ {
+  "slug": "prof-dr-rehana-parveen",
+  "srcSlug": "prof-dr-rehana-parveen",
+  "name": "Prof. Dr. Rehana Parveen",
+  "degrees": [
+   "MBBS",
+   "FCPS (OBGYN)"
+  ],
+  "specialties": [
+   "Surgeon",
+   "Gynecologist & Obstetrician",
+   "Gynecologic Oncologist"
+  ],
+  "experienceYears": 30,
+  "bmdcRegNo": null,
+  "phone": "+88028144400",
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Sun",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Mon",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Tue",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Wed",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Thu",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Sat",
+      "start": "17:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "17:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "17:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "17:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "17:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "17:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Advaced Laproscopic Gynaecological Surgery",
+   "Caesarean Section (C Section)",
+   "Complicated Pregnancy Treatment",
+   "Fertility Conserving Procedures",
+   "Gynaec Laparoscopy",
+   "High-Risk Pregnancy Care",
+   "Hysterectomy (Abdominal/Vaginal)",
+   "Intra-Uterine Insemination (IUI)"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-dr-rehana-parveen"
+ },
+ {
+  "slug": "dr-aftab-yousuf-raj",
+  "srcSlug": "dr-aftab-yousuf-raj",
+  "name": "Dr. Aftab Yousuf Raj",
+  "degrees": [
+   "MBBS",
+   "MD (Pediatrics)",
+   "MD (Neonatology)",
+   "Fellow Newborn Medicine (Canada)",
+   "MPH (NSU)"
+  ],
+  "specialties": [
+   "Pediatrician",
+   "Neonatologist"
+  ],
+  "experienceYears": null,
+  "bmdcRegNo": null,
+  "phone": "+88028144400",
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": []
+   }
+  ],
+  "services": [
+   "Asthma Allergy",
+   "Chronic Infectious Diseases",
+   "Newborn Jaundice",
+   "Neonatal Nursing",
+   "Abdominoperineal Resection (Pediatric)",
+   "Arthritis in Children",
+   "Behaviour problem in children",
+   "Bone Marrow Transplant(Pediatrics)"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-aftab-yousuf-raj"
+ },
+ {
+  "slug": "dr-md-fazlul-hoque",
+  "srcSlug": "dr-md-fazlul-hoque",
+  "name": "Dr. Md. Fazlul Hoque",
+  "degrees": [
+   "MBBS",
+   "D. (Ortho)",
+   "FA (Ortho)",
+   "FAMA Trained in Orthopedic and Spinal Surgery (UK & USA)"
+  ],
+  "specialties": [
+   "Orthopedist",
+   "Surgeon"
+  ],
+  "experienceYears": 42,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Mon",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Tue",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Thu",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Sat",
+      "start": "15:00",
+      "end": "17:00"
+     },
+     {
+      "day": "Mon",
+      "start": "15:00",
+      "end": "17:00"
+     },
+     {
+      "day": "Thu",
+      "start": "15:00",
+      "end": "17:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Back Pain Treatment",
+   "Bone and Calcium Metabolism",
+   "Bone Trauma",
+   "Bone, spine and pain management interventions",
+   "Complex Fracture Treatment",
+   "Complex Spine Disorder",
+   "Complex Trauma",
+   "Joint and Muscle Problems"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-md-fazlul-hoque"
+ },
+ {
+  "slug": "prof-dr-md-hasan-masud",
+  "srcSlug": "prof-dr-md-hasan-masud-2",
+  "name": "Prof. Dr. Md. Hasan Masud",
+  "degrees": [
+   "MBBS",
+   "MD (Gastroenterology)"
+  ],
+  "specialties": [
+   "Gastroenterologist"
+  ],
+  "experienceYears": 30,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Sun",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Mon",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Tue",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Wed",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Thu",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Sat",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "16:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Acute Pancreatitis Treatment",
+   "Chronic Liver Disease",
+   "Colonoscopy",
+   "Constipation Treatment",
+   "Endoscopic Surgery",
+   "ERCP",
+   "Gastritis Treatment",
+   "Gastroscopy"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-dr-md-hasan-masud-2"
+ },
+ {
+  "slug": "dr-major-retd-zeena-salwa",
+  "srcSlug": "dr-major-retd-zeena-salwa",
+  "name": "Dr. Major (Retd) Zeena Salwa",
+  "degrees": [
+   "MBBS",
+   "DCH",
+   "FCPS (Pediatrics)",
+   "Clinical Training on Pediatric Neurology (India)",
+   "Training on EEG and Epilepsy (USA)"
+  ],
+  "specialties": [
+   "Pediatric Neurologist"
+  ],
+  "experienceYears": 20,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Sun",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Mon",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Tue",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Wed",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Thu",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Sat",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "16:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Attention Deficit Hyperactivity Disorder (ADHD) Treatment",
+   "Autism",
+   "Behavioural Disorders in Children",
+   "Epilepsy In Children",
+   "Headache Treatment",
+   "Movement Disorder",
+   "Neurological Problems",
+   "Pediatric Neurology"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-major-retd-zeena-salwa"
+ },
+ {
+  "slug": "brig-gen-dr-md-delwar-hossain",
+  "srcSlug": "brig-gen-dr-md-delwar-hossain",
+  "name": "Brig. Gen. Dr. Md. Delwar Hossain",
+  "degrees": [
+   "MBBS",
+   "FCPS (Medicine)",
+   "FCPS (Gastroenterology)"
+  ],
+  "specialties": [
+   "Gastroenterologist"
+  ],
+  "experienceYears": null,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": []
+   }
+  ],
+  "services": [
+   "Acidity Treatment",
+   "Gallbladder",
+   "Gastroenteritis Treatment",
+   "Hemorrhoids Treatment",
+   "Hepatitis B Treatment",
+   "Hepatitis C Treatment",
+   "Hepatitis E Treatment",
+   "Irritable Bowel Syndrome (IBS) Treatment"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/brig-gen-dr-md-delwar-hossain"
+ },
+ {
+  "slug": "available-for",
+  "srcSlug": "brig-gen-prof-dr-md-azizur-rahman",
+  "name": "Available for",
+  "degrees": [
+   "Video Call",
+   "Brig. Gen. Prof. Dr. Md. Azizur Rahman",
+   "MBBS (DMC)",
+   "MCPS (Med)",
+   "FCPS (Med)",
+   "FCPS (Pulmonology)"
+  ],
+  "specialties": [
+   "FCCP (USA)",
+   "Respiratory Specialist"
+  ],
+  "experienceYears": null,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Video consultancy available",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "16:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Acute Diarrhea",
+   "Adult Vaccination",
+   "Chest Pain Treatment",
+   "Dengue",
+   "Fibromyalgia",
+   "Health Checkup (General)",
+   "Heart Muscle Inflammation",
+   "Hypertension (High Blood Pressure)"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/brig-gen-prof-dr-md-azizur-rahman"
+ },
+ {
+  "slug": "assoc-prof-dr-mahmuda-zaman",
+  "srcSlug": "assoc-prof-dr-mahmuda-zaman",
+  "name": "Assoc. Prof. Dr. Mahmuda Zaman",
+  "degrees": [
+   "MBBS (DMC)",
+   "FCPS (CHILD)"
+  ],
+  "specialties": [
+   "Pediatric Hematologist"
+  ],
+  "experienceYears": 24,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Sun",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Mon",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Tue",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Wed",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Thu",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Sat",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "16:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Asthma In Children",
+   "Blood disorders in children",
+   "Child Development Disease Treatment",
+   "Child Vaccination",
+   "Chronic Infectious Diseases",
+   "Children's infectious diseases",
+   "Children's Health",
+   "Specializations"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/assoc-prof-dr-mahmuda-zaman"
+ },
+ {
+  "slug": "dr-khaleda-yeasmin-mirza",
+  "srcSlug": "dr-khaleda-yeasmin-mirza",
+  "name": "Dr. Khaleda Yeasmin Mirza",
+  "degrees": [
+   "MBBS",
+   "DGO (Ireland)"
+  ],
+  "specialties": [
+   "Arab Board",
+   "KSA",
+   "Gynecologist & Obstetrician"
+  ],
+  "experienceYears": 36,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "10:00",
+      "end": "14:00"
+     },
+     {
+      "day": "Sun",
+      "start": "10:00",
+      "end": "14:00"
+     },
+     {
+      "day": "Mon",
+      "start": "10:00",
+      "end": "14:00"
+     },
+     {
+      "day": "Tue",
+      "start": "10:00",
+      "end": "14:00"
+     },
+     {
+      "day": "Wed",
+      "start": "10:00",
+      "end": "14:00"
+     },
+     {
+      "day": "Thu",
+      "start": "10:00",
+      "end": "14:00"
+     },
+     {
+      "day": "Fri",
+      "start": "10:00",
+      "end": "14:00"
+     },
+     {
+      "day": "Sat",
+      "start": "17:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "17:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "17:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "17:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "17:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "17:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Gynae Check Up",
+   "Gynec Advices",
+   "Hormonal disturbances in women",
+   "Hormone testing",
+   "Neonatal Intensive Care (NICU)",
+   "Normal Vaginal Delivery (NVD)",
+   "Obstetrics & Gynecology",
+   "Parathyroid Hormone"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-khaleda-yeasmin-mirza"
+ },
+ {
+  "slug": "assoc-prof-dr-tanny-tarafder",
+  "srcSlug": "assoc-prof-dr-tanny-tarafder",
+  "name": "Assoc. Prof. Dr. Tanny Tarafder",
+  "degrees": [
+   "MBBS",
+   "FCPS (Surgery)",
+   "MRCS (UK)"
+  ],
+  "specialties": [
+   "Surgeon"
+  ],
+  "experienceYears": 20,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Mon",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Tue",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Wed",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Sat",
+      "start": "14:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Mon",
+      "start": "14:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Tue",
+      "start": "14:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Wed",
+      "start": "14:00",
+      "end": "18:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Abdominal surgery",
+   "Adenoid / Tonsil Surgery",
+   "Ear Micro Surgery",
+   "Gastroscopy General Surgeon",
+   "Laproscopic Surgeon",
+   "Breast Surgery",
+   "Hernia Repair Surgery",
+   "Laproscopic hernia surgery"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/assoc-prof-dr-tanny-tarafder"
+ },
+ {
+  "slug": "dr-fariah-sharmeen",
+  "srcSlug": "dr-fariah-sharmeen",
+  "name": "Dr. Fariah Sharmeen",
+  "degrees": [
+   "MBBS",
+   "FCPS (Radiotherapy)",
+   "Post Graduation Training (Medical Oncology)"
+  ],
+  "specialties": [
+   "Oncologist"
+  ],
+  "experienceYears": 12,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": []
+   }
+  ],
+  "services": [
+   "Advanced Therapies (Ozone, Growth Factors, Stem Cells)",
+   "Breast Cancer Management",
+   "Breast Oncology",
+   "Chemotherapy",
+   "Chemotherapy of Haematological Malignancies",
+   "Head and Neck Tumor / Cancer Surgery",
+   "Melanoma Treatment",
+   "PICC Line Insertion"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-fariah-sharmeen"
+ },
+ {
+  "slug": "dr-md-masudur-rahman",
+  "srcSlug": "dr-md-masudur-rahman",
+  "name": "Dr. Md. Masudur Rahman",
+  "degrees": [
+   "MBBS (DMC)",
+   "FCPS (Pediatrics)",
+   "MRCP (UK)"
+  ],
+  "specialties": [
+   "Pediatrician"
+  ],
+  "experienceYears": 20,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Sun",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Mon",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Tue",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Wed",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Thu",
+      "start": "10:00",
+      "end": "13:00"
+     },
+     {
+      "day": "Sat",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "16:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "16:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Newborn Jaundice",
+   "Abdominoperineal Resection (Pediatric)",
+   "Advanced Pediatric Life Support (APLS)",
+   "Arthritis in Children",
+   "Asthma In Children",
+   "Bone Marrow Transplant(Pediatrics)",
+   "Exchange Transfusion (Pediatric)",
+   "General Pediatrics"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-md-masudur-rahman"
+ },
+ {
+  "slug": "dr-ahmed-sayeed",
+  "srcSlug": "dr-ahmed-sayeed",
+  "name": "Dr. Ahmed Sayeed",
+  "degrees": [
+   "MBBS",
+   "DCH",
+   "FCPS (CHILD)"
+  ],
+  "specialties": [
+   "Pediatrician",
+   "Neonatologist"
+  ],
+  "experienceYears": 20,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "09:00",
+      "end": "17:00"
+     },
+     {
+      "day": "Sun",
+      "start": "09:00",
+      "end": "17:00"
+     },
+     {
+      "day": "Mon",
+      "start": "09:00",
+      "end": "17:00"
+     },
+     {
+      "day": "Tue",
+      "start": "09:00",
+      "end": "17:00"
+     },
+     {
+      "day": "Wed",
+      "start": "09:00",
+      "end": "17:00"
+     },
+     {
+      "day": "Thu",
+      "start": "09:00",
+      "end": "17:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Bacterial Skin Infection Treatment",
+   "Childhood Asthama-Management and Counselling",
+   "Development Assessment",
+   "Infant & Child nutrition",
+   "Measles Treatment",
+   "Neonatal Nursing",
+   "New Born Care",
+   "Pediatric & Neonatal Emergencies"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-ahmed-sayeed"
+ },
+ {
+  "slug": "dr-aflatun-akter-jahan",
+  "srcSlug": "dr-aflatun-akter-jahan",
+  "name": "Dr. Aflatun Akter Jahan",
+  "degrees": [
+   "MBBS",
+   "MD (Internal Medicine)"
+  ],
+  "specialties": [
+   "Internal Medicine"
+  ],
+  "experienceYears": 14,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": []
+   }
+  ],
+  "services": [
+   "Adolescent Medicine",
+   "Aesthetic Medicine",
+   "Cardiac Medicine",
+   "Cognitive remediation therapy (CRT)",
+   "Critical Care Medicine",
+   "Family Medicine",
+   "Fetal Medicine",
+   "Fetomaternal Medicine"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-aflatun-akter-jahan"
+ },
+ {
+  "slug": "dr-m-m-jayed-hossain-chowdhury",
+  "srcSlug": "dr-m-m-jayed-hossain-chowdhury",
+  "name": "Dr. M. M. Jayed Hossain Chowdhury",
+  "degrees": [
+   "MBBS",
+   "DA",
+   "FCPS"
+  ],
+  "specialties": [
+   "Anesthesiologist"
+  ],
+  "experienceYears": 17,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Sun",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Mon",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Tue",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Wed",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Thu",
+      "start": "19:00",
+      "end": "21:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Asthma",
+   "Cardiac Anesthesia",
+   "Epilepsy",
+   "General Anesthesia",
+   "Geriatric Anesthesia",
+   "Hypertension (High Blood Pressure)",
+   "Maxillary Nerve Block",
+   "Neuro Anesthesia"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-m-m-jayed-hossain-chowdhury"
+ },
+ {
+  "slug": "dr-bhabesh-chandra-mondal",
+  "srcSlug": "dr-bhabesh-chandra-mondal",
+  "name": "Dr. Bhabesh Chandra Mondal",
+  "degrees": [
+   "MBBS",
+   "DA",
+   "FCPS"
+  ],
+  "specialties": [
+   "Anesthesiologist"
+  ],
+  "experienceYears": 29,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Asthma",
+   "Cardiac Anesthesia",
+   "Epilepsy",
+   "General Anesthesia",
+   "Geriatric Anesthesia",
+   "Hypertension (High Blood Pressure)",
+   "Maxillary Nerve Block",
+   "Neuro Anesthesia"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-bhabesh-chandra-mondal"
+ },
+ {
+  "slug": "dr-istaque-ahmed-milton",
+  "srcSlug": "dr-istaque-ahmed-milton",
+  "name": "Dr. Istaque Ahmed Milton",
+  "degrees": [
+   "MBBS",
+   "FCPS",
+   "DA"
+  ],
+  "specialties": [
+   "Anesthesiologist"
+  ],
+  "experienceYears": 13,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Sun",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Mon",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Tue",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Wed",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Thu",
+      "start": "16:00",
+      "end": "18:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Asthma",
+   "Cardiac Anesthesia",
+   "Epilepsy",
+   "General Anesthesia",
+   "Geriatric Anesthesia",
+   "Hypertension (High Blood Pressure)",
+   "Maxillary Nerve Block",
+   "Neuro Anesthesia"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-istaque-ahmed-milton"
+ },
+ {
+  "slug": "dr-md-quamrul-islam",
+  "srcSlug": "dr-md-quamrul-islam",
+  "name": "Dr. Md. Quamrul Islam",
+  "degrees": [
+   "MBBS",
+   "MD (Anesth)"
+  ],
+  "specialties": [
+   "Anesthesiologist"
+  ],
+  "experienceYears": 18,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Asthma",
+   "Cardiac Anesthesia",
+   "Epilepsy",
+   "General Anesthesia",
+   "Geriatric Anesthesia",
+   "Hypertension (High Blood Pressure)",
+   "Neuro Anesthesia",
+   "OB-GYN Anesthesia"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-md-quamrul-islam"
+ },
+ {
+  "slug": "dr-ranadhir-kumar-kundu",
+  "srcSlug": "dr-ranadhir-kumar-kundu",
+  "name": "Dr. Ranadhir Kumar Kundu",
+  "degrees": [
+   "MBBS",
+   "MD"
+  ],
+  "specialties": [
+   "Anesthesiologist"
+  ],
+  "experienceYears": 23,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Asthma",
+   "Cardiac Anesthesia",
+   "Epilepsy",
+   "General Anesthesia",
+   "Hypertension (High Blood Pressure)",
+   "Neuro Anesthesia",
+   "OB-GYN Anesthesia",
+   "Obstructive Sleep Apnea (OSA)"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-ranadhir-kumar-kundu"
+ },
+ {
+  "slug": "dr-shah-muhammad-ali",
+  "srcSlug": "dr-shah-muhammad-ali",
+  "name": "Dr. Shah Muhammad Ali",
+  "degrees": [
+   "MBBS",
+   "DA",
+   "FCPS"
+  ],
+  "specialties": [
+   "Anesthesiologist"
+  ],
+  "experienceYears": 30,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Sun",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Mon",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Tue",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Wed",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Thu",
+      "start": "19:00",
+      "end": "21:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Asthma",
+   "Cardiac Anesthesia",
+   "Epilepsy",
+   "General Anesthesia",
+   "Geriatric Anesthesia",
+   "Hypertension (High Blood Pressure)",
+   "Neuro Anesthesia",
+   "OB-GYN Anesthesia"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-shah-muhammad-ali"
+ },
+ {
+  "slug": "dr-tahmina-banu",
+  "srcSlug": "dr-tahmina-banu",
+  "name": "Dr. Tahmina Banu",
+  "degrees": [
+   "MBBS",
+   "DA",
+   "MD"
+  ],
+  "specialties": [
+   "Anesthesiologist"
+  ],
+  "experienceYears": 26,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Asthma",
+   "Cardiac Anesthesia",
+   "Epilepsy",
+   "General Anesthesia",
+   "Geriatric Anesthesia",
+   "Hypertension (High Blood Pressure)",
+   "Maxillary Nerve Block",
+   "Neuro Anesthesia"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-tahmina-banu"
+ },
+ {
+  "slug": "prof-dr-md-zulfiqar-hasan",
+  "srcSlug": "prof-dr-md-zulfiqar-hasan",
+  "name": "Prof. Dr. Md. Zulfiqar Hasan",
+  "degrees": [
+   "MBBS",
+   "MD"
+  ],
+  "specialties": [
+   "Anesthesiologist"
+  ],
+  "experienceYears": 29,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Asthma",
+   "Cardiac Anesthesia",
+   "Epilepsy",
+   "General Anesthesia",
+   "Geriatric Anesthesia",
+   "Hypertension (High Blood Pressure)",
+   "Neuro Anesthesia",
+   "OB-GYN Anesthesia"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-dr-md-zulfiqar-hasan"
+ },
+ {
+  "slug": "prof-wahiuddin-mahmood",
+  "srcSlug": "prof-wahiuddin-mahmood",
+  "name": "Prof. Wahiuddin Mahmood",
+  "degrees": [
+   "MBBS",
+   "DA",
+   "FCPS"
+  ],
+  "specialties": [
+   "Anesthesiologist"
+  ],
+  "experienceYears": 25,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Sun",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Mon",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Tue",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Wed",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Thu",
+      "start": "19:00",
+      "end": "21:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Asthma",
+   "Cardiac Anesthesia",
+   "Epilepsy",
+   "General Anesthesia",
+   "Geriatric Anesthesia",
+   "Hypertension (High Blood Pressure)",
+   "Maxillary Nerve Block",
+   "Neuro Anesthesia"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-wahiuddin-mahmood"
+ },
+ {
+  "slug": "brig-gen-prof-dr-md-abdul-bari-mollick",
+  "srcSlug": "brig-gen-prof-dr-md-abdul-bari-mollick",
+  "name": "Brig Gen Prof. Dr. Md Abdul Bari Mollick",
+  "degrees": [
+   "BDS",
+   "FCPS (Orthodontics and Dentofacial Orthopedics)"
+  ],
+  "specialties": [
+   "Maxillofacial and Dental Surgeon"
+  ],
+  "experienceYears": 25,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Dental Caries",
+   "Dental implants",
+   "Dry Mouth",
+   "Impacted Teeth",
+   "Impacted Teeth",
+   "Improve Jaw Function",
+   "Periodontal Disease",
+   "Sensitive Teeth"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/brig-gen-prof-dr-md-abdul-bari-mollick"
+ },
+ {
+  "slug": "dr-subrata-kumar-barai",
+  "srcSlug": "dr-subrata-kumar-barai",
+  "name": "Dr. Subrata Kumar Barai",
+  "degrees": [
+   "BDS",
+   "Advanced training in Dental Surgery (India)"
+  ],
+  "specialties": [
+   "Dental Implant (India)",
+   "Maxillofacial and Dental Surgeon"
+  ],
+  "experienceYears": 14,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Sun",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Mon",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Tue",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Wed",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Thu",
+      "start": "16:00",
+      "end": "18:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Dental Caries",
+   "Dental implants",
+   "Dental Implants",
+   "Dry Mouth",
+   "Impacted Teeth",
+   "Impacted Teeth",
+   "Improve Jaw Function",
+   "Mouth Tumors"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-subrata-kumar-barai"
+ },
+ {
+  "slug": "prof-dr-sufia-nasrin-rita",
+  "srcSlug": "prof-dr-sufia-nasrin-rita",
+  "name": "Prof. Dr. Sufia Nasrin Rita",
+  "degrees": [
+   "BDS",
+   "FCPS (Orthodontics & Dentofacial Orthopedics)"
+  ],
+  "specialties": [
+   "Maxillofacial and Dental Surgeon"
+  ],
+  "experienceYears": 19,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Sun",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Mon",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Tue",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Wed",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Thu",
+      "start": "19:00",
+      "end": "21:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Dental Caries",
+   "Dental implants",
+   "Dental Implants",
+   "Dry Mouth",
+   "Impacted Teeth",
+   "Impacted Teeth",
+   "Improve Jaw Function",
+   "Mouth Tumors"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-dr-sufia-nasrin-rita"
+ },
+ {
+  "slug": "dr-sadiqa-tuqan",
+  "srcSlug": "dr-sadiqa-tuqan",
+  "name": "Dr. Sadiqa Tuqan",
+  "degrees": [
+   "MBBS",
+   "FCPS (Endocrinology and Metabolism)"
+  ],
+  "specialties": [
+   "Endocrinologist"
+  ],
+  "experienceYears": 13,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Adrenal Disorders",
+   "Adrenal Gland Disorders",
+   "Goiter Treatment",
+   "Growth Hormone Disorders",
+   "Hyperlipidemia",
+   "Hyperthyroidism",
+   "Hypopituitarism",
+   "Hypothyroidism"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-sadiqa-tuqan"
+ },
+ {
+  "slug": "dr-mohammad-israt-faisal",
+  "srcSlug": "dr-mohammad-israt-faisal",
+  "name": "Dr. Mohammad Israt Faisal",
+  "degrees": [
+   "MBBS",
+   "FCPS (Surgery)"
+  ],
+  "specialties": [
+   "General Surgeon"
+  ],
+  "experienceYears": 18,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Appendix Removal",
+   "Colon Resection",
+   "Colonoscopy",
+   "Cyst & Lipoma Removal",
+   "Endosurgery",
+   "Fistula Surgery",
+   "Gallbladder Removal",
+   "Laparoscopic Surgery"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-mohammad-israt-faisal"
+ },
+ {
+  "slug": "dr-mohammad-yasin-chowdhury",
+  "srcSlug": "dr-mohammad-yasin-chowdhury",
+  "name": "Dr. Mohammad Yasin Chowdhury",
+  "degrees": [
+   "MBBS",
+   "FCPS",
+   "MS",
+   "FMAS (India)",
+   "FACS (USA)"
+  ],
+  "specialties": [
+   "General Surgeon",
+   "Laparoscopic Surgeon"
+  ],
+  "experienceYears": 22,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Sun",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Mon",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Tue",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Wed",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Thu",
+      "start": "16:00",
+      "end": "18:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Appendix Removal",
+   "Colon Resection",
+   "Colonoscopy",
+   "Colorectal Surgery",
+   "Cyst & Lipoma Removal",
+   "Endosurgery",
+   "Fistula Surgery",
+   "Gallbladder Removal"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-mohammad-yasin-chowdhury"
+ },
+ {
+  "slug": "prof-dr-arif-salam-khan",
+  "srcSlug": "prof-dr-arif-salam-khan",
+  "name": "Prof. Dr. Arif Salam Khan",
+  "degrees": [
+   "MBBS",
+   "FCPS (Surgery)"
+  ],
+  "specialties": [
+   "Hepatobiliary Surgeon"
+  ],
+  "experienceYears": 28,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Sun",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Mon",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Tue",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Wed",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Thu",
+      "start": "19:00",
+      "end": "21:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Alcoholic Liver Diseases",
+   "Biliary bypass surgery",
+   "Congenital Anomalies",
+   "Distal pancreatectomy",
+   "Gallbladder Disease",
+   "Gallbladder Stone Removal",
+   "Hepatitis B Treatment",
+   "Hepatitis C Treatment"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-dr-arif-salam-khan"
+ },
+ {
+  "slug": "prof-dr-mohammad-abdullah-al-mamun",
+  "srcSlug": "prof-dr-mohammad-abdullah-al-mamun",
+  "name": "Prof. Dr. Mohammad Abdullah Al Mamun",
+  "degrees": [
+   "MBBS",
+   "FCPS",
+   "MRCS"
+  ],
+  "specialties": [
+   "Colorectal & Laparoscopic Surgeon"
+  ],
+  "experienceYears": 20,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Abdominoperineal resection",
+   "Bariatric Surgery",
+   "Bowel Resection Surgery",
+   "Colorectal Surgery",
+   "Ectopic pregnancy removal",
+   "Hernia repair surgery",
+   "Hipato Biliary Surgery",
+   "Kidney Biopsies"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-dr-mohammad-abdullah-al-mamun"
+ },
+ {
+  "slug": "dr-farzana-rashid",
+  "srcSlug": "dr-farzana-rashid",
+  "name": "Dr. Farzana Rashid",
+  "degrees": [
+   "MBBS",
+   "FCPS ( OBS-GYN)"
+  ],
+  "specialties": [
+   "Gynecologist & Obstetrician"
+  ],
+  "experienceYears": 16,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Sun",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Mon",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Tue",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Wed",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Thu",
+      "start": "19:00",
+      "end": "21:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Embolization",
+   "Gynae Problems",
+   "Hormone Dirtubances",
+   "Hysteroscopy",
+   "Ovarian Cystectomy",
+   "Ovarian Cysts",
+   "Pelvic Inflammatory Disease (PID)",
+   "Polycystic Ovary Syndrome (PCOS)"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-farzana-rashid"
+ },
+ {
+  "slug": "dr-akm-abu-mottaleb",
+  "srcSlug": "dr-akm-abu-mottaleb",
+  "name": "Dr. AKM Abu Mottaleb",
+  "degrees": [
+   "MBBS",
+   "MSc in Nephrology (UK)"
+  ],
+  "specialties": [
+   "Nephrologist"
+  ],
+  "experienceYears": 24,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Mon",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Tue",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Wed",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Thu",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Sun",
+      "start": "19:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Acid-Base Fluctuations",
+   "Chronic Kidney Disease (CKD)",
+   "Chronic Renal Failure",
+   "Diabetic Kidney Disorder",
+   "Dialysis",
+   "Glomerular Complications",
+   "Kidney Disease Treatment",
+   "Kidney Infections"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-akm-abu-mottaleb"
+ },
+ {
+  "slug": "dr-mosaddeque-ahmed",
+  "srcSlug": "dr-mosaddeque-ahmed",
+  "name": "Dr. Mosaddeque Ahmed",
+  "degrees": [
+   "MBBS",
+   "USMLE",
+   "MRCP (UK)"
+  ],
+  "specialties": [
+   "Nephrologist"
+  ],
+  "experienceYears": 26,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Sun",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Mon",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Tue",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Wed",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Thu",
+      "start": "16:00",
+      "end": "18:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Acid-Base Fluctuations",
+   "Chronic Kidney Disease (CKD)",
+   "Chronic Renal Failure",
+   "Diabetic Kidney Disorder",
+   "Dialysis",
+   "Electrolyte Disorders",
+   "Glomerular Complications",
+   "Kidney Disease Treatment"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-mosaddeque-ahmed"
+ },
+ {
+  "slug": "dr-nizam-uddin-ahmed-chowdhury",
+  "srcSlug": "dr-nizam-uddin-ahmed-chowdhury",
+  "name": "Dr. Nizam Uddin Ahmed Chowdhury",
+  "degrees": [
+   "MBBS",
+   "MD (Nephrology)"
+  ],
+  "specialties": [
+   "Nephrologist"
+  ],
+  "experienceYears": 25,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Acid-Base Fluctuations",
+   "Chronic Kidney Disease (CKD)",
+   "Chronic Renal Failure",
+   "Diabetic Kidney Disorder",
+   "Dialysis",
+   "Electrolyte Disorders",
+   "Glomerular Complications",
+   "Kidney Disease Treatment"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-nizam-uddin-ahmed-chowdhury"
+ },
+ {
+  "slug": "prof-dr-ratan-das-gupta",
+  "srcSlug": "prof-dr-ratan-das-gupta",
+  "name": "Prof. Dr. Ratan Das Gupta",
+  "degrees": [
+   "MBBS",
+   "FCPS (Medicine)",
+   "MD (Nephrology)"
+  ],
+  "specialties": [
+   "Nephrologist"
+  ],
+  "experienceYears": 26,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Acid-Base Fluctuations",
+   "Chronic Kidney Disease (CKD)",
+   "Chronic Renal Failure",
+   "Diabetic Kidney Disorder",
+   "Dialysis",
+   "Electrolyte Disorders",
+   "Glomerular Complications",
+   "Kidney Disease Treatment"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-dr-ratan-das-gupta"
+ },
+ {
+  "slug": "assoc-prof-dr-sk-mahbub-alam",
+  "srcSlug": "assoc-prof-dr-sk-mahbub-alam",
+  "name": "Assoc. Prof. Dr. Sk. Mahbub Alam",
+  "degrees": [
+   "MBBS",
+   "MD (Neurology)"
+  ],
+  "specialties": [
+   "Neurologist"
+  ],
+  "experienceYears": 20,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Sun",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Mon",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Tue",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Wed",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Thu",
+      "start": "19:00",
+      "end": "21:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Autism",
+   "Brain Mapping",
+   "Cerebrovascular Disease",
+   "Confusion",
+   "Dementia Treatment",
+   "Epilepsy",
+   "Headache Disorders",
+   "Laminectomy"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/assoc-prof-dr-sk-mahbub-alam"
+ },
+ {
+  "slug": "prof-dr-mofizur-rahman",
+  "srcSlug": "prof-dr-mofizur-rahman",
+  "name": "Prof. Dr. Mofizur Rahman",
+  "degrees": [
+   "MBBS",
+   "Diploma in Clinical Neurology (UK)",
+   "MSc Neuroscience (UK)"
+  ],
+  "specialties": [
+   "Neurologist"
+  ],
+  "experienceYears": 33,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Autism",
+   "Brain Mapping",
+   "Cerebrovascular Disease",
+   "Confusion",
+   "Dementia Treatment",
+   "Epilepsy",
+   "Headache Disorders",
+   "Laminectomy"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-dr-mofizur-rahman"
+ },
+ {
+  "slug": "dr-mohammed-wahidur-rahman",
+  "srcSlug": "dr-mohammed-wahidur-rahman",
+  "name": "Dr. Mohammed Wahidur Rahman",
+  "degrees": [
+   "MBBS",
+   "DA",
+   "MD (USA)",
+   "DO (USA)"
+  ],
+  "specialties": [
+   "Neurology Residency (USA)",
+   "Neurologist"
+  ],
+  "experienceYears": 18,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Autism",
+   "Brain Mapping",
+   "Cerebrovascular Disease",
+   "Confusion",
+   "Dementia Treatment",
+   "Epilepsy",
+   "Headache Disorders",
+   "Laminectomy"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-mohammed-wahidur-rahman"
+ },
+ {
+  "slug": "dr-rama-biswas",
+  "srcSlug": "dr-rama-biswas",
+  "name": "Dr. Rama Biswas",
+  "degrees": [
+   "MBBS",
+   "FCPS (Medicine)",
+   "MD (Neurology)"
+  ],
+  "specialties": [
+   "Neurologist"
+  ],
+  "experienceYears": 20,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Sun",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Wed",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Thu",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "18:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Autism",
+   "Brain Mapping",
+   "Cerebrovascular Disease",
+   "Confusion",
+   "Dementia Treatment",
+   "Epilepsy",
+   "Headache Disorders",
+   "Laminectomy"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-rama-biswas"
+ },
+ {
+  "slug": "dr-nasima-akter",
+  "srcSlug": "dr-nasima-akter",
+  "name": "Dr. Nasima Akter",
+  "degrees": [
+   "MBBS",
+   "DCH",
+   "FCPS (Pediatrics)"
+  ],
+  "specialties": [
+   "Pediatric Cardiologist"
+  ],
+  "experienceYears": 19,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Aortic Coarctation",
+   "Aortic Valve Stenosis",
+   "Arrhythmias",
+   "Cardiac Catheterization",
+   "Cardiomyopathy",
+   "Cardioversion",
+   "Congenital Heart Disease",
+   "Endocarditis"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-nasima-akter"
+ },
+ {
+  "slug": "dr-fatema-salam",
+  "srcSlug": "dr-fatema-salam",
+  "name": "Dr. Fatema Salam",
+  "degrees": [
+   "MBBS",
+   "DCH",
+   "FCPS (Neonatology)"
+  ],
+  "specialties": [
+   "Pediatrician & Neonatologist"
+  ],
+  "experienceYears": 28,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Allergy Testing",
+   "Asthma",
+   "Auto-immune Diseases in Children",
+   "Child Nutrition",
+   "Child Trauma & Injuries",
+   "Health Checkup (Pediatric)",
+   "Infectious Diseases",
+   "Malnutrition"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-fatema-salam"
+ },
+ {
+  "slug": "dr-kamrunnaher-shultana",
+  "srcSlug": "dr-kamrunnaher-shultana",
+  "name": "Dr. Kamrunnaher Shultana",
+  "degrees": [
+   "MBBS",
+   "FCPS (Pediatrics)"
+  ],
+  "specialties": [
+   "Pediatrician"
+  ],
+  "experienceYears": 15,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Allergy Testing",
+   "Asthma",
+   "Child Nutrition",
+   "Child Trauma & Injuries",
+   "Health Checkup (Pediatric)",
+   "Infectious Diseases",
+   "Malnutrition",
+   "New Born Care"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-kamrunnaher-shultana"
+ },
+ {
+  "slug": "dr-lutfun-nahar-begum",
+  "srcSlug": "dr-lutfun-nahar-begum",
+  "name": "Dr. Lutfun Nahar Begum",
+  "degrees": [
+   "MBBS",
+   "MD (Pead)",
+   "FCPS (Neonatology)"
+  ],
+  "specialties": [
+   "Pediatrician & Neonatologist"
+  ],
+  "experienceYears": 23,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Sun",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Mon",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Tue",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Wed",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Thu",
+      "start": "19:00",
+      "end": "21:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Allergy Testing",
+   "Asthma",
+   "Auto-immune Diseases in Children",
+   "Child Nutrition",
+   "Child Trauma & Injuries",
+   "Health Checkup (Pediatric)",
+   "Infectious Diseases",
+   "Malnutrition"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-lutfun-nahar-begum"
+ },
+ {
+  "slug": "dr-md-abdul-qader",
+  "srcSlug": "dr-md-abdul-qader",
+  "name": "Dr. Md. Abdul Qader",
+  "degrees": [
+   "MBBS",
+   "MD"
+  ],
+  "specialties": [
+   "Pediatric Nephrologist"
+  ],
+  "experienceYears": 16,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Acute Renal Failure",
+   "Alport Syndrome",
+   "Chronic Kidney Disease (CKD)",
+   "Denys-Drash Syndrome",
+   "IgA Nephropathy",
+   "Kidney Biopsies",
+   "Kidney Diseases",
+   "Kidney Infections"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-md-abdul-qader"
+ },
+ {
+  "slug": "dr-shukla-saha",
+  "srcSlug": "dr-shukla-saha",
+  "name": "Dr. Shukla Saha",
+  "degrees": [
+   "MBBS",
+   "FCPS (Pediatrics)"
+  ],
+  "specialties": [
+   "Pediatric Cardiologist"
+  ],
+  "experienceYears": 15,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "19:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "19:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "19:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "19:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "19:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "19:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Aortic Coarctation",
+   "Aortic Valve Stenosis",
+   "Arrhythmias",
+   "Cardiac Catheterization",
+   "Cardiomyopathy",
+   "Cardioversion",
+   "Congenital Heart Disease",
+   "Endocarditis"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-shukla-saha"
+ },
+ {
+  "slug": "dr-sushama-roy",
+  "srcSlug": "dr-sushama-roy",
+  "name": "Dr. Sushama Roy",
+  "degrees": [
+   "MBBS",
+   "FCPS (Pediatrics)"
+  ],
+  "specialties": [
+   "Pediatrician"
+  ],
+  "experienceYears": 19,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Allergy Testing",
+   "Asthma",
+   "Auto-immune Diseases in Children",
+   "Child Nutrition",
+   "Child Trauma & Injuries",
+   "Health Checkup (Pediatric)",
+   "Infectious Diseases",
+   "Malnutrition"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-sushama-roy"
+ },
+ {
+  "slug": "prof-dr-muhammad-ataul-haqq",
+  "srcSlug": "prof-dr-muhammad-ataul-haqq",
+  "name": "Prof. Dr. Muhammad Ataul Haqq",
+  "degrees": [
+   "MBBS",
+   "BCS",
+   "MD (Pead)",
+   "MD (Paediatric Cardiology)"
+  ],
+  "specialties": [
+   "Pediatric Cardiologist"
+  ],
+  "experienceYears": 24,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Ibn Sina Diagnostic Center | Lalbagh",
+    "address": "27/4 Dhakeshwari Rd, Lalbagh,Dhaka 1217, Dhaka-1217, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "15:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "15:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "15:00",
+      "end": "20:00"
+     }
+    ]
+   },
+   {
+    "name": "Shin-Shin Japan Hospital",
+    "address": "17, 24 and 36 Garib-e-Newaj Avenue, Sector-11, Uttara, Uttara Paschim, Dhaka-1230, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": []
+   }
+  ],
+  "services": [
+   "Abdominoperineal Resection (Pediatric)",
+   "Adopted Child Syndrome Treatment",
+   "Advanced Pediatric Life Support (APLS)",
+   "Arthritis in Children",
+   "Bone Marrow Transplant(Pediatrics)",
+   "Exchange Transfusion (Pediatric)",
+   "General Pediatrics",
+   "Health Checkup (Pediatric)"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-dr-muhammad-ataul-haqq"
+ },
+ {
+  "slug": "dr-mahbub-hasan",
+  "srcSlug": "dr-mahbub-hasan",
+  "name": "Dr. Mahbub Hasan",
+  "degrees": [
+   "MBBS",
+   "FCPS (General Surgery)",
+   "FCPS (Plastic Surgery)",
+   "MRCS (Edinburgh)"
+  ],
+  "specialties": [
+   "Plastic Surgeon"
+  ],
+  "experienceYears": 18,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Sun",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Mon",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Tue",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Wed",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Thu",
+      "start": "19:00",
+      "end": "21:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Acne Treatment",
+   "Birthmark Reduction",
+   "Body Contouring Surgery",
+   "Burn Scar Reconstruction",
+   "Cosmetic Surgery",
+   "Dermatosurgery",
+   "Hand Deformities",
+   "Lip reconstruction"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-mahbub-hasan"
+ },
+ {
+  "slug": "prof-dr-shafquat-hussain-khundkar",
+  "srcSlug": "prof-dr-shafquat-hussain-khundkar",
+  "name": "Prof. Dr. Shafquat Hussain Khundkar",
+  "degrees": [
+   "MBBS",
+   "FCPS"
+  ],
+  "specialties": [
+   "Plastic Surgeon"
+  ],
+  "experienceYears": 29,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Acne Treatment",
+   "Birthmark Reduction",
+   "Body Contouring Surgery",
+   "Burn Scar Reconstruction",
+   "Cosmetic Surgery",
+   "Dermatosurgery",
+   "Hand Deformities",
+   "Lip reconstruction"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-dr-shafquat-hussain-khundkar"
+ },
+ {
+  "slug": "dr-fazle-rabbi-mohammed",
+  "srcSlug": "dr-fazle-rabbi-mohammed",
+  "name": "Dr. Fazle Rabbi Mohammed",
+  "degrees": [
+   "MBBS",
+   "MD (Respiratory Medicine)"
+  ],
+  "specialties": [
+   "Respiratory Specialist"
+  ],
+  "experienceYears": 20,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   },
+   {
+    "name": "Central Hospital Limited",
+    "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": []
+   }
+  ],
+  "services": [
+   "Asbestosis",
+   "Bronchitis Treatment",
+   "Chronic Bronchitis",
+   "Chronic Cough",
+   "Cystic Fibrosis",
+   "Emphysema",
+   "Goodpasture syndrome",
+   "Hypersensitivity Pneumonitis"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-fazle-rabbi-mohammed"
+ },
+ {
+  "slug": "dr-md-mamunur-rashid",
+  "srcSlug": "dr-md-mamunur-rashid-4269",
+  "name": "Dr. Md. Mamunur Rashid",
+  "degrees": [
+   "MBBS",
+   "FCPS",
+   "MD"
+  ],
+  "specialties": [
+   "Respiratory Specialist"
+  ],
+  "experienceYears": 21,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Asbestosis",
+   "Bronchitis Treatment",
+   "Chronic Bronchitis",
+   "Chronic Cough",
+   "Cystic Fibrosis",
+   "Emphysema",
+   "Goodpasture syndrome",
+   "Hypersensitivity Pneumonitis"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-md-mamunur-rashid-4269"
+ },
+ {
+  "slug": "dr-sarabon-tahura",
+  "srcSlug": "dr-sarabon-tahura-4270",
+  "name": "Dr. Sarabon Tahura",
+  "degrees": [
+   "MBBS",
+   "FCPS (Paediatrics)"
+  ],
+  "specialties": [
+   "Pediatric Pulmonologist"
+  ],
+  "experienceYears": 18,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Sun",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Mon",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Tue",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Wed",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Thu",
+      "start": "16:00",
+      "end": "18:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Bronchiolitis",
+   "Bronchopulmonary dysplasia (BPD)",
+   "Cleft lip and palate",
+   "Croup",
+   "Cystic Fibrosis",
+   "Cystic fibrosis (CF)",
+   "Down syndrome",
+   "Epiglottitis"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-sarabon-tahura-4270"
+ },
+ {
+  "slug": "dr-md-kamal-pasha",
+  "srcSlug": "dr-md-kamal-pasha",
+  "name": "Dr. Md. Kamal Pasha",
+  "degrees": [
+   "MBBS",
+   "FCPS",
+   "FICS"
+  ],
+  "specialties": [
+   "Urologist"
+  ],
+  "experienceYears": 29,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Bladder Control Problems",
+   "Cystocele",
+   "Epididymitis",
+   "Erectile Dysfunction (ED)",
+   "Hydronephrosis",
+   "Kidney Stones",
+   "Neurogenic Bladder",
+   "Peyronie's Disease"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-md-kamal-pasha"
+ },
+ {
+  "slug": "dr-n-i-bhuiyan",
+  "srcSlug": "dr-n-i-bhuiyan",
+  "name": "Dr. N. I. Bhuiyan",
+  "degrees": [
+   "MBBS",
+   "MS (Urology)"
+  ],
+  "specialties": [
+   "Urologist"
+  ],
+  "experienceYears": null,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Sun",
+      "start": "17:00",
+      "end": "19:00"
+     },
+     {
+      "day": "Mon",
+      "start": "17:00",
+      "end": "19:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Blood in Urine",
+   "Blood in Urine (Hematuria) Treatment",
+   "Body Contouring Surgery",
+   "BP with Kidney Disease",
+   "Chronic Kidney Disease (CKD)",
+   "Genito Urinary Cancer",
+   "Genitourinary Cancers",
+   "Genitourinary Surgery"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-n-i-bhuiyan"
+ },
+ {
+  "slug": "prof-dr-a-k-m-anwarul-islam",
+  "srcSlug": "prof-dr-a-k-m-anwarul-islam-4273",
+  "name": "Prof. Dr. A. K. M. Anwarul Islam",
+  "degrees": [
+   "MBBS",
+   "FCPS (Surgery)",
+   "FRCSI (Ireland)",
+   "FICS (Urology)"
+  ],
+  "specialties": [
+   "Urologist"
+  ],
+  "experienceYears": 29,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Bladder Control Problems",
+   "Cystocele",
+   "Epididymitis",
+   "Erectile Dysfunction (ED)",
+   "Hydronephrosis",
+   "Kidney Stones",
+   "Neurogenic Bladder",
+   "Peyronie's Disease"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-dr-a-k-m-anwarul-islam-4273"
+ },
+ {
+  "slug": "dr-md-ashraful-islam",
+  "srcSlug": "dr-md-ashraful-islam-4272",
+  "name": "Dr. Md. Ashraful Islam",
+  "degrees": [
+   "MBBS",
+   "MS (CVTS)",
+   "FACS (USA)",
+   "FRCS (Glasg)"
+  ],
+  "specialties": [
+   "Cardiac Surgeon"
+  ],
+  "experienceYears": 29,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Atrial Fibrillation Surgery",
+   "Atrial Septal Defect (ASD)",
+   "Cardiac Ablation",
+   "Cardiac Transplant",
+   "Cardiac Tumor Resection",
+   "Congenital Heart Defects",
+   "Coronary Angiogram",
+   "Coronary Angioplasty"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-md-ashraful-islam-4272"
+ },
+ {
+  "slug": "dr-md-akhtanur-rahman-joarder",
+  "srcSlug": "dr-md-akhtanur-rahman-joarder",
+  "name": "Dr. Md. Akhtanur Rahman Joarder",
+  "degrees": [
+   "MBBS",
+   "MS (Cardio-Vascular & Thoracic Surgery)"
+  ],
+  "specialties": [
+   "Cardiac Surgeon"
+  ],
+  "experienceYears": 24,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Atrial Fibrillation Surgery",
+   "Atrial Septal Defect (ASD)",
+   "Cardiac Ablation",
+   "Cardiac Transplant",
+   "Cardiac Tumor Resection",
+   "Congenital Heart Defects",
+   "Coronary Angiogram",
+   "Coronary Angioplasty"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-md-akhtanur-rahman-joarder"
+ },
+ {
+  "slug": "dr-md-mesbah-uddin",
+  "srcSlug": "dr-md-mesbah-uddin",
+  "name": "Dr. Md. Mesbah Uddin",
+  "degrees": [
+   "MBBS",
+   "MS (Cardiac Surgery)",
+   "FACS (USA)"
+  ],
+  "specialties": [
+   "Cardiac Surgeon"
+  ],
+  "experienceYears": 17,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Atrial Fibrillation Surgery",
+   "Atrial Septal Defect (ASD)",
+   "Cardiac Ablation",
+   "Cardiac Transplant",
+   "Cardiac Tumor Resection",
+   "Congenital Heart Defects",
+   "Coronary Angiogram",
+   "Coronary Angioplasty"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-md-mesbah-uddin"
+ },
+ {
+  "slug": "dr-md-sultan-sarwar-parvez",
+  "srcSlug": "dr-md-sultan-sarwar-parvez",
+  "name": "Dr. Md. Sultan Sarwar Parvez",
+  "degrees": [
+   "MBBS",
+   "MS (Cardio-Vascular & Thoracic Surgery)",
+   "FACS (USA)"
+  ],
+  "specialties": [
+   "Cardiac Surgeon"
+  ],
+  "experienceYears": 28,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Atrial Fibrillation Surgery",
+   "Atrial Septal Defect (ASD)",
+   "Cardiac Ablation",
+   "Cardiac Transplant",
+   "Cardiac Tumor Resection",
+   "Congenital Heart Defects",
+   "Coronary Angiogram",
+   "Coronary Angioplasty"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-md-sultan-sarwar-parvez"
+ },
+ {
+  "slug": "dr-prasanta-k-chanda",
+  "srcSlug": "dr-prasanta-k-chanda",
+  "name": "Dr. Prasanta K Chanda",
+  "degrees": [
+   "MBBS",
+   "MS (Cardiovascular and Thoracic Surgery)"
+  ],
+  "specialties": [
+   "Cardiac Surgeon"
+  ],
+  "experienceYears": 24,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Atrial Fibrillation Surgery",
+   "Atrial Septal Defect (ASD)",
+   "Cardiac Ablation",
+   "Cardiac Transplant",
+   "Cardiac Tumor Resection",
+   "Congenital Heart Defects",
+   "Coronary Angiogram",
+   "Coronary Angioplasty"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-prasanta-k-chanda"
+ },
+ {
+  "slug": "dr-saikat-das-gupta",
+  "srcSlug": "dr-saikat-das-gupta",
+  "name": "Dr. Saikat Das Gupta",
+  "degrees": [
+   "MBBS",
+   "MS ( Cardiothoracic Surgery)",
+   "FACS (USA)",
+   "FICS (USA)"
+  ],
+  "specialties": [
+   "Cardiac Surgeon"
+  ],
+  "experienceYears": 15,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Sun",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Mon",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Tue",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Wed",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Thu",
+      "start": "19:00",
+      "end": "21:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Atrial Fibrillation Surgery",
+   "Atrial Septal Defect (ASD)",
+   "Cardiac Ablation",
+   "Cardiac Transplant",
+   "Cardiac Tumor Resection",
+   "Congenital Heart Defects",
+   "Coronary Angiogram",
+   "Coronary Angioplasty"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-saikat-das-gupta"
+ },
+ {
+  "slug": "prof-brig-gen-faruk-ahmed-retd",
+  "srcSlug": "prof-brig-gen-faruk-ahmed-retd",
+  "name": "Prof. Brig. Gen. Faruk Ahmed (Retd.)",
+  "degrees": [
+   "MBBS",
+   "MCPS (Clinical Pathology)",
+   "FCPS (Hematology)"
+  ],
+  "specialties": [
+   "Hematologist"
+  ],
+  "experienceYears": 32,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Anemia",
+   "Blood Clots",
+   "Blood Transfusion",
+   "Bone marrow failure syndromes",
+   "Coagulation Disorders",
+   "Hemochromatosis (Excess Iron)",
+   "Hemoglobinopathies (e.g., HbS, HbC)",
+   "Hemolytic anemia"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-brig-gen-faruk-ahmed-retd"
+ },
+ {
+  "slug": "dr-syeda-ishrat-jahan",
+  "srcSlug": "dr-syeda-ishrat-jahan",
+  "name": "Dr. Syeda Ishrat Jahan",
+  "degrees": [
+   "MBBS",
+   "DDV (SINGAPORE)",
+   "MSc In Clinical Dermatology (London)"
+  ],
+  "specialties": [
+   "MSSVD (London)",
+   "Dermatologist"
+  ],
+  "experienceYears": 20,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "09:00",
+      "end": "14:00"
+     },
+     {
+      "day": "Sun",
+      "start": "09:00",
+      "end": "14:00"
+     },
+     {
+      "day": "Mon",
+      "start": "09:00",
+      "end": "14:00"
+     },
+     {
+      "day": "Tue",
+      "start": "09:00",
+      "end": "14:00"
+     },
+     {
+      "day": "Wed",
+      "start": "09:00",
+      "end": "14:00"
+     },
+     {
+      "day": "Thu",
+      "start": "09:00",
+      "end": "14:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Acne Problems",
+   "Alopecia Areata",
+   "Atopic Dermatitis Treatment",
+   "Dermatitis Treatment",
+   "Eczema",
+   "Herpes Simplex (Cold Sores)",
+   "Herpes zoster (shingles)",
+   "Impetigo"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-syeda-ishrat-jahan"
+ },
+ {
+  "slug": "dr-m-h-shaheel-mahmood",
+  "srcSlug": "dr-m-h-shaheel-mahmood",
+  "name": "Dr. M. H. Shaheel Mahmood",
+  "degrees": [
+   "MBBS",
+   "FCPS",
+   "MS"
+  ],
+  "specialties": [
+   "Otolaryngologists (ENT)"
+  ],
+  "experienceYears": 24,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "19:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "19:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "19:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "19:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "19:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "19:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Adenoiditis",
+   "Allergies",
+   "Cholesteatoma",
+   "Chronic Rhinitis",
+   "Conductive Hearing Loss",
+   "Deviated septum",
+   "Head and Neck Tumor",
+   "Laryngeal Papillomatosis"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-m-h-shaheel-mahmood"
+ },
+ {
+  "slug": "dr-md-nasimul-jamal",
+  "srcSlug": "dr-md-nasimul-jamal",
+  "name": "Dr. Md. Nasimul Jamal",
+  "degrees": [
+   "MBBS",
+   "DLO",
+   "FCPS (ENT)"
+  ],
+  "specialties": [
+   "Otolaryngologists (ENT)"
+  ],
+  "experienceYears": 29,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Adenoiditis",
+   "Allergies",
+   "Cholesteatoma",
+   "Chronic Rhinitis",
+   "Conductive Hearing Loss",
+   "Deviated septum",
+   "Head and Neck Tumor",
+   "Laryngeal Papillomatosis"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-md-nasimul-jamal"
+ },
+ {
+  "slug": "dr-sanjoy-banerjee",
+  "srcSlug": "dr-sanjoy-banerjee",
+  "name": "Dr. Sanjoy Banerjee",
+  "degrees": [
+   "MBBS",
+   "FCPS (ENT)"
+  ],
+  "specialties": [
+   "Otolaryngologists (ENT)"
+  ],
+  "experienceYears": 19,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Adenoiditis",
+   "Allergies",
+   "Cholesteatoma",
+   "Chronic Rhinitis",
+   "Conductive Hearing Loss",
+   "Deviated septum",
+   "Head and Neck Tumor",
+   "Laryngeal Papillomatosis"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-sanjoy-banerjee"
+ },
+ {
+  "slug": "dr-ayesha-siddiqua",
+  "srcSlug": "dr-ayesha-siddiqua",
+  "name": "Dr. Ayesha Siddiqua",
+  "degrees": [
+   "MBBS",
+   "FCPS (Obs & Gyne) FCPS (Gynecological Oncology)"
+  ],
+  "specialties": [
+   "Gynecologic Oncologist"
+  ],
+  "experienceYears": 17,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Breast Cancer Treatment",
+   "Cancer Screening (Preventive)",
+   "Cervical dysplasia (pre-cancerous changes)",
+   "Fallopian Tube Cancer",
+   "Gestational trophoblastic disease (molar pregnancy)",
+   "Lumpectomy",
+   "Mastectomy",
+   "Mixed epithelial tumors"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-ayesha-siddiqua"
+ },
+ {
+  "slug": "dr-foujia-sharmin",
+  "srcSlug": "dr-foujia-sharmin-4286",
+  "name": "Dr. Foujia Sharmin",
+  "degrees": [
+   "MBBS",
+   "FCPS (Obs & Gyne) FCPS (Gynecological Oncology)"
+  ],
+  "specialties": [
+   "Gynecologic Oncologist"
+  ],
+  "experienceYears": 17,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Sun",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Mon",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Tue",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Wed",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Thu",
+      "start": "16:00",
+      "end": "18:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Breast Cancer Treatment",
+   "Cancer Screening (Preventive)",
+   "Cervical dysplasia (pre-cancerous changes)",
+   "Fallopian Tube Cancer",
+   "Gestational trophoblastic disease (molar pregnancy)",
+   "Lumpectomy",
+   "Mastectomy",
+   "Mixed epithelial tumors"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-foujia-sharmin-4286"
+ },
+ {
+  "slug": "dr-silvia-hossain",
+  "srcSlug": "dr-silvia-hossain",
+  "name": "Dr. Silvia Hossain",
+  "degrees": [
+   "MBBS",
+   "DGO",
+   "FCPS (Obs & Gyne)",
+   "FCPS (Gynecological Oncology)"
+  ],
+  "specialties": [
+   "Gynecologic Oncologist"
+  ],
+  "experienceYears": 20,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [],
+  "services": [
+   "Breast Cancer Treatment",
+   "Cancer Screening (Preventive)",
+   "Cervical dysplasia (pre-cancerous changes)",
+   "Fallopian Tube Cancer",
+   "Gestational trophoblastic disease (molar pregnancy)",
+   "Lumpectomy",
+   "Mastectomy",
+   "Mixed epithelial tumors"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-silvia-hossain"
+ },
+ {
+  "slug": "brig-gen-prof-dr-moklesur-rahman",
+  "srcSlug": "brig-gen-prof-dr-moklesur-rahman",
+  "name": "Brig. Gen. Prof. Dr. Moklesur Rahman",
+  "degrees": [
+   "MBBS (DMC)",
+   "MS (Ortho)",
+   "FACS (USA)"
+  ],
+  "specialties": [
+   "Orthopedist"
+  ],
+  "experienceYears": 27,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Achilles Tendonitis",
+   "Arthroscopy",
+   "Baker's Cyst",
+   "Cubital Tunnel Syndrome",
+   "Herniated Disc",
+   "Joint Mobilization",
+   "Knee Osteotomy",
+   "Knee Replacement"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/brig-gen-prof-dr-moklesur-rahman"
+ },
+ {
+  "slug": "dr-md-o-f-g-kibria",
+  "srcSlug": "dr-md-ofg-kibria",
+  "name": "Dr. Md. O.F.G Kibria",
+  "degrees": [
+   "MBBS",
+   "MS (Orthopedic)"
+  ],
+  "specialties": [
+   "Orthopedist"
+  ],
+  "experienceYears": 29,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "15:00",
+      "end": "18:30"
+     },
+     {
+      "day": "Sun",
+      "start": "15:00",
+      "end": "18:30"
+     },
+     {
+      "day": "Mon",
+      "start": "15:00",
+      "end": "18:30"
+     },
+     {
+      "day": "Tue",
+      "start": "15:00",
+      "end": "18:30"
+     },
+     {
+      "day": "Wed",
+      "start": "15:00",
+      "end": "18:30"
+     },
+     {
+      "day": "Thu",
+      "start": "15:00",
+      "end": "18:30"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Achilles Tendonitis",
+   "Arthroscopy",
+   "Baker's Cyst",
+   "Cubital Tunnel Syndrome",
+   "Herniated Disc",
+   "Joint Mobilization",
+   "Knee Osteotomy",
+   "Knee Replacement"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-md-ofg-kibria"
+ },
+ {
+  "slug": "dr-mesbah-uddin-ahmed",
+  "srcSlug": "dr-mesbah-uddin-ahmed",
+  "name": "Dr. Mesbah Uddin Ahmed",
+  "degrees": [
+   "MBBS",
+   "D. (Ortho)",
+   "MS (Ortho)"
+  ],
+  "specialties": [
+   "Orthopedist"
+  ],
+  "experienceYears": 30,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Sun",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Mon",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Tue",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Wed",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Thu",
+      "start": "19:00",
+      "end": "21:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Achilles Tendonitis",
+   "Arthroscopy",
+   "Baker's Cyst",
+   "Cubital Tunnel Syndrome",
+   "Herniated Disc",
+   "Joint Mobilization",
+   "Knee Osteotomy",
+   "Knee Replacement"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-mesbah-uddin-ahmed"
+ },
+ {
+  "slug": "dr-bidoura-naznin",
+  "srcSlug": "dr-bidoura-naznin",
+  "name": "Dr. Bidoura Naznin",
+  "degrees": [
+   "MBBS",
+   "MCPS",
+   "MD"
+  ],
+  "specialties": [
+   "Pathologist"
+  ],
+  "experienceYears": 17,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "3D/4D Ultrasound",
+   "Bloodstream Infections",
+   "Clinical Pathology",
+   "Colorectal Polyps",
+   "Cytopathology",
+   "Dermatopathology",
+   "Hematopathology",
+   "Histopathology"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-bidoura-naznin"
+ },
+ {
+  "slug": "prof-dr-md-anowar-hossain",
+  "srcSlug": "prof-dr-md-anowar-hossain",
+  "name": "Prof. Dr. Md. Anowar Hossain",
+  "degrees": [
+   "MBBS",
+   "MCPS"
+  ],
+  "specialties": [
+   "MCAP (Clinical Pathology)",
+   "IFCAP",
+   "Pathologist"
+  ],
+  "experienceYears": 30,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "21:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "3D/4D Ultrasound",
+   "Bloodstream Infections",
+   "Clinical Pathology",
+   "Colorectal Polyps",
+   "Cytopathology",
+   "Dermatopathology",
+   "Hematopathology",
+   "Histopathology"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-dr-md-anowar-hossain"
+ },
+ {
+  "slug": "prof-dr-brig-gen-md-azizul-islam",
+  "srcSlug": "prof-dr-brig-gen-md-azizul-islam",
+  "name": "Prof. Dr. Brig. Gen. Md. Azizul Islam",
+  "degrees": [
+   "MBBS",
+   "FCPS",
+   "FRCP (UK)",
+   "FACP (USA)"
+  ],
+  "specialties": [
+   "Psychiatrist"
+  ],
+  "experienceYears": 32,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Alzheimer's Disease",
+   "Autism",
+   "Autism Spectrum Disorder (ASD)",
+   "Bipolar Disorder Treatment",
+   "Depression and Anxiety",
+   "Eating Disorders",
+   "Generalized Anxiety Disorder (GAD)",
+   "Genetic Predisposition"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-dr-brig-gen-md-azizul-islam"
+ },
+ {
+  "slug": "prof-dr-md-waziul-alam-chowdhury",
+  "srcSlug": "prof-dr-md-waziul-alam-chowdhury",
+  "name": "Prof. Dr. Md. Waziul Alam Chowdhury",
+  "degrees": [
+   "MBBS",
+   "FCPS (Psy)"
+  ],
+  "specialties": [
+   "Psychiatrist"
+  ],
+  "experienceYears": 25,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   },
+   {
+    "name": "Anwer Khan Modern Medical College Hospital",
+    "address": "House 17,Road 8, Dhanmondi R/A, 3, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sun",
+      "start": "19:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "19:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "19:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "19:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Alzheimer's Disease",
+   "Autism",
+   "Autism Spectrum Disorder (ASD)",
+   "Bipolar Disorder Treatment",
+   "Depression and Anxiety",
+   "Eating Disorders",
+   "Generalized Anxiety Disorder (GAD)",
+   "Genetic Predisposition"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-dr-md-waziul-alam-chowdhury"
+ },
+ {
+  "slug": "brig-gen-prof-dr-md-shameem-haidar",
+  "srcSlug": "brig-gen-prof-dr-md-shameem-haidar",
+  "name": "Brig. Gen. Prof. Dr. Md. Shameem Haidar",
+  "degrees": [
+   "MBBS",
+   "FCPS (Internal Medicine)"
+  ],
+  "specialties": [
+   "Rheumatologist"
+  ],
+  "experienceYears": 26,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Anti Phospholipid Syndrome",
+   "Arthritis Management",
+   "Gout Treatment",
+   "Juvenile Idiopathic Arthritis",
+   "Loco-Regional Pain",
+   "Myositis",
+   "Osteoarthritis",
+   "Psoriasis Treatment"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/brig-gen-prof-dr-md-shameem-haidar"
+ },
+ {
+  "slug": "dr-asif-manwar",
+  "srcSlug": "dr-asif-manwar",
+  "name": "Dr. Asif Manwar",
+  "degrees": [
+   "MBBS",
+   "D. Card (London)",
+   "Msc Cardiology (UK)"
+  ],
+  "specialties": [
+   "Cardiologist"
+  ],
+  "experienceYears": null,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Abnormal Heartbeat",
+   "Anticoagulation Therapy",
+   "Antiplatelet Therapy",
+   "Cardiac Medicine",
+   "Cardiac Rehabilitation",
+   "Cardiogenic Shock",
+   "Cardiomyopathy",
+   "Coronary Artery Disease (CAD)"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-asif-manwar"
+ },
+ {
+  "slug": "asst-prof-dr-khondoker-asaduzzaman",
+  "srcSlug": "asst-prof-dr-khondoker-asaduzzaman",
+  "name": "Asst. Prof. Dr. Khondoker Asaduzzaman",
+  "degrees": [
+   "MBBS",
+   "DTCD (Chest)",
+   "MD (Cardiology)",
+   "AFACC (USA)",
+   "FASIC & FSCAI (USA)"
+  ],
+  "specialties": [
+   "Cardiologist",
+   "Pulmonologist"
+  ],
+  "experienceYears": 15,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Popular Diagnostic Centre Ltd.| English Road",
+    "address": "House # 2, English Road, Dhaka, Dhaka-1100, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": []
+   }
+  ],
+  "services": [
+   "Atrial Tachycardia",
+   "Cardiac Ablation",
+   "Cardiac Ablation",
+   "Cardiac Anesthesia",
+   "Cardiac Catheterization",
+   "Cardiac Disease",
+   "Cardiac Medicine",
+   "Cardiac MRI"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/asst-prof-dr-khondoker-asaduzzaman"
+ },
+ {
+  "slug": "dr-mahbub-mansur",
+  "srcSlug": "dr-mahbub-mansur",
+  "name": "Dr. Mahbub Mansur",
+  "degrees": [
+   "MBBS",
+   "MD (Cardiology)"
+  ],
+  "specialties": [
+   "Interventional Cardiologist"
+  ],
+  "experienceYears": 28,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Abnormal Heartbeat",
+   "Anticoagulation Therapy",
+   "Antiplatelet Therapy",
+   "Cardiac Medicine",
+   "Cardiac Rehabilitation",
+   "Cardiogenic Shock",
+   "Cardiomyopathy",
+   "Coronary Artery Disease (CAD)"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-mahbub-mansur"
+ },
+ {
+  "slug": "dr-md-towhiduzzaman",
+  "srcSlug": "dr-md-towhiduzzaman",
+  "name": "Dr. Md. Towhiduzzaman",
+  "degrees": [
+   "MBBS (Dhaka)",
+   "MD CARD. (NICVD)"
+  ],
+  "specialties": [
+   "FIC (Singapore)",
+   "Cardiologist"
+  ],
+  "experienceYears": 31,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Abnormal Heartbeat",
+   "Anticoagulation Therapy",
+   "Antiplatelet Therapy",
+   "Cardiac Medicine",
+   "Cardiac Rehabilitation",
+   "Cardiogenic Shock",
+   "Cardiomyopathy",
+   "Coronary Artery Disease (CAD)"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-md-towhiduzzaman"
+ },
+ {
+  "slug": "dr-s-m-shahedul-amin-robin",
+  "srcSlug": "dr-s-m-shahedul-amin-robin",
+  "name": "Dr. S. M. Shahedul Amin Robin",
+  "degrees": [
+   "MBBS",
+   "DIP (Cardiology)"
+  ],
+  "specialties": [
+   "Cardiologist"
+  ],
+  "experienceYears": 22,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Abnormal Heartbeat",
+   "Anticoagulation Therapy",
+   "Antiplatelet Therapy",
+   "Cardiac Medicine",
+   "Cardiac Rehabilitation",
+   "Cardiogenic Shock",
+   "Coronary Artery Disease (CAD)",
+   "Healthy Heart Diet"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-s-m-shahedul-amin-robin"
+ },
+ {
+  "slug": "fatema-akter",
+  "srcSlug": "fatema-akter",
+  "name": "Fatema Akter",
+  "degrees": [],
+  "specialties": [
+   "M.sc (Food & Nutrition, DU)",
+   "B.sc (Food & Nutrition, DU)",
+   "Nutritionist"
+  ],
+  "experienceYears": 15,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Sun",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Mon",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Tue",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Wed",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Thu",
+      "start": "16:00",
+      "end": "18:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Diabetes Management",
+   "Diet Management",
+   "Food Allergies",
+   "Food Sensitivity Management",
+   "Gastroparesis",
+   "Geriatric Nutrition",
+   "Healthy Heart Diet",
+   "Mindful Eating"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/fatema-akter"
+ },
+ {
+  "slug": "nujhat-manzoor",
+  "srcSlug": "nujhat-manzoor",
+  "name": "Nujhat Manzoor",
+  "degrees": [],
+  "specialties": [
+   "M.sc (Food & Nutrition, DU)",
+   "B.sc (Food & Nutrition, DU)",
+   "Nutritionist"
+  ],
+  "experienceYears": 17,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sun",
+      "start": "15:00",
+      "end": "17:00"
+     },
+     {
+      "day": "Tue",
+      "start": "15:00",
+      "end": "17:00"
+     },
+     {
+      "day": "Thu",
+      "start": "15:00",
+      "end": "17:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Diabetes Management",
+   "Diet Management",
+   "Food Allergies",
+   "Food Sensitivity Management",
+   "Gastroparesis",
+   "Geriatric Nutrition",
+   "Healthy Heart Diet",
+   "Mindful Eating"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/nujhat-manzoor"
+ },
+ {
+  "slug": "tapati-shaha",
+  "srcSlug": "tapati-shaha",
+  "name": "Tapati Shaha",
+  "degrees": [],
+  "specialties": [
+   "M.sc (Food & Nutrition, DU)",
+   "B.sc (Food & Nutrition, DU)",
+   "Nutritionist"
+  ],
+  "experienceYears": 16,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Sun",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Mon",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Tue",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Wed",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Thu",
+      "start": "16:00",
+      "end": "18:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Diabetes Management",
+   "Diet Management",
+   "Food Allergies",
+   "Food Sensitivity Management",
+   "Gastroparesis",
+   "Geriatric Nutrition",
+   "Healthy Heart Diet",
+   "Mindful Eating"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/tapati-shaha"
+ },
+ {
+  "slug": "dr-fowaz-hussain-shuvo",
+  "srcSlug": "dr-fowaz-hussain-shuvo",
+  "name": "Dr. Fowaz Hussain Shuvo",
+  "degrees": [
+   "MBBS",
+   "MD (Hepatology)"
+  ],
+  "specialties": [
+   "Gastroenterologist"
+  ],
+  "experienceYears": 25,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Acidity Treatment",
+   "Celiac Disease",
+   "Diverticulitis",
+   "Gastritis Treatment",
+   "Gastroesophageal Reflux Disease (GERD)",
+   "Gastrointestinal Bleeding",
+   "Gastroscopy",
+   "Inflammatory bowel disease (IBD)"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-fowaz-hussain-shuvo"
+ },
+ {
+  "slug": "prof-sk-md-bahar-hussain",
+  "srcSlug": "prof-sk-md-bahar-hussain",
+  "name": "Prof. Sk. Md. Bahar Hussain",
+  "degrees": [
+   "MBBS",
+   "FCPS (Medicine)",
+   "FACP (USA)",
+   "FRCP (Edin)",
+   "F. Gastro (Shanghai)",
+   "FRCP (Glasgow)"
+  ],
+  "specialties": [
+   "Gastroenterologist"
+  ],
+  "experienceYears": 32,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Sun",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Mon",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Tue",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Wed",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Thu",
+      "start": "19:00",
+      "end": "21:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Acidity Treatment",
+   "Celiac Disease",
+   "Constipation",
+   "Diarrhea",
+   "Diverticulitis",
+   "Gastritis Treatment",
+   "Gastroesophageal Reflux Disease (GERD)",
+   "Gastrointestinal Bleeding"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-sk-md-bahar-hussain"
+ },
+ {
+  "slug": "dr-ahmad-mursel-anam",
+  "srcSlug": "dr-ahmad-mursel-anam",
+  "name": "Dr. Ahmad Mursel Anam",
+  "degrees": [
+   "MBBS",
+   "MRCP (UK)",
+   "MSc Critical Care (U. Edin)",
+   "FRCP (Edin)"
+  ],
+  "specialties": [
+   "Internal Medicine"
+  ],
+  "experienceYears": 17,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Abnormal liver biochemical and function tests",
+   "Abnormal Uterine Bleeding",
+   "Acquired Von Willebrand Syndrome",
+   "Acute Bacterial Meningitis",
+   "Acute Bronchitis",
+   "Anxiety Disorders Treatment",
+   "Bacterial Brain Abscess",
+   "Bleeding Peptic Ulcers"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-ahmad-mursel-anam"
+ },
+ {
+  "slug": "dr-ataur-rahman-khan",
+  "srcSlug": "dr-ataur-rahman-khan",
+  "name": "Dr. Ataur Rahman Khan",
+  "degrees": [
+   "MBBS",
+   "MD (USA)"
+  ],
+  "specialties": [
+   "Internal Medicine Specialist"
+  ],
+  "experienceYears": 30,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Abnormal liver biochemical and function tests",
+   "Abnormal Uterine Bleeding",
+   "Acquired Von Willebrand Syndrome",
+   "Acute Bacterial Meningitis",
+   "Acute Bronchitis",
+   "Anxiety Disorders Treatment",
+   "Bacterial Brain Abscess",
+   "Bleeding Peptic Ulcers"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-ataur-rahman-khan"
+ },
+ {
+  "slug": "dr-deepankar-kumar-basak",
+  "srcSlug": "dr-deepankar-kumar-basak",
+  "name": "Dr. Deepankar Kumar Basak",
+  "degrees": [
+   "MBBS (DMC)",
+   "FCPS (Internal Medicine)"
+  ],
+  "specialties": [
+   "Internal Medicine Specialist"
+  ],
+  "experienceYears": 19,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Abnormal liver biochemical and function tests",
+   "Abnormal Uterine Bleeding",
+   "Acquired Von Willebrand Syndrome",
+   "Acute Bacterial Meningitis",
+   "Acute Bronchitis",
+   "Anxiety Disorders Treatment",
+   "Bacterial Brain Abscess",
+   "Bleeding Peptic Ulcers"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-deepankar-kumar-basak"
+ },
+ {
+  "slug": "dr-jahangir-alam",
+  "srcSlug": "dr-jahangir-alam",
+  "name": "Dr. Jahangir Alam",
+  "degrees": [
+   "MBBS (DMC)",
+   "MRCP (UK)",
+   "FRCP (Edin)"
+  ],
+  "specialties": [
+   "Internal Medicine Specialist",
+   "Diabetes Specialist"
+  ],
+  "experienceYears": 25,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Abnormal liver biochemical and function tests",
+   "Abnormal Uterine Bleeding",
+   "Acquired Von Willebrand Syndrome",
+   "Acute Bacterial Meningitis",
+   "Acute Bronchitis",
+   "Anxiety Disorders Treatment",
+   "Bacterial Brain Abscess",
+   "Bleeding Peptic Ulcers"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-jahangir-alam"
+ },
+ {
+  "slug": "dr-raziuddin-ahmed",
+  "srcSlug": "dr-raziuddin-ahmed",
+  "name": "Dr. Raziuddin Ahmed",
+  "degrees": [
+   "MBBS",
+   "MRCP (UK)"
+  ],
+  "specialties": [
+   "EDIC (Belgium)",
+   "Internal Medicine Specialist"
+  ],
+  "experienceYears": 15,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Abnormal liver biochemical and function tests",
+   "Abnormal Uterine Bleeding",
+   "Acquired Von Willebrand Syndrome",
+   "Acute Bacterial Meningitis",
+   "Acute Bronchitis",
+   "Anxiety Disorders Treatment",
+   "Bacterial Brain Abscess",
+   "Bleeding Peptic Ulcers"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-raziuddin-ahmed"
+ },
+ {
+  "slug": "dr-shihan-mahmud-redwanul-huq",
+  "srcSlug": "dr-shihan-mahmud-redwanul-huq",
+  "name": "Dr. Shihan Mahmud Redwanul Huq",
+  "degrees": [
+   "MBBS",
+   "MRCP (UK)"
+  ],
+  "specialties": [
+   "MRCPE",
+   "Internal Medicine Specialist"
+  ],
+  "experienceYears": 20,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Abnormal Uterine Bleeding",
+   "Acquired Von Willebrand Syndrome",
+   "Acute Bacterial Meningitis",
+   "Acute Bronchitis",
+   "Anxiety Disorders Treatment",
+   "Bacterial Brain Abscess",
+   "Bleeding Peptic Ulcers",
+   "Cardiogenic Shock"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-shihan-mahmud-redwanul-huq"
+ },
+ {
+  "slug": "dr-tasnova-mahin",
+  "srcSlug": "dr-tasnova-mahin",
+  "name": "Dr. Tasnova Mahin",
+  "degrees": [
+   "MBBS",
+   "FCPS (Medicine)",
+   "MRCP"
+  ],
+  "specialties": [
+   "Internal Medicine Specialist"
+  ],
+  "experienceYears": 13,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Sun",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Mon",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Tue",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Wed",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Thu",
+      "start": "16:00",
+      "end": "18:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Abnormal liver biochemical and function tests",
+   "Abnormal Uterine Bleeding",
+   "Acquired Von Willebrand Syndrome",
+   "Acute Bacterial Meningitis",
+   "Acute Bronchitis",
+   "Anxiety Disorders Treatment",
+   "Bacterial Brain Abscess",
+   "Bleeding Peptic Ulcers"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-tasnova-mahin"
+ },
+ {
+  "slug": "prof-dr-md-abu-bakar",
+  "srcSlug": "prof-dr-md-abu-bakar",
+  "name": "Prof. Dr. Md. Abu Bakar",
+  "degrees": [
+   "MBBS",
+   "FCPS (Internal Medicine)",
+   "FACP (USA)",
+   "FRCP (Edin)"
+  ],
+  "specialties": [
+   "Internal Medicine Specialist"
+  ],
+  "experienceYears": 29,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Abnormal liver biochemical and function tests",
+   "Abnormal Uterine Bleeding",
+   "Acquired Von Willebrand Syndrome",
+   "Acute Bacterial Meningitis",
+   "Acute Bronchitis",
+   "Anxiety Disorders Treatment",
+   "Bacterial Brain Abscess",
+   "Bleeding Peptic Ulcers"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-dr-md-abu-bakar"
+ },
+ {
+  "slug": "dr-a-m-rejaus-satter",
+  "srcSlug": "dr-a-m-rejaus-satter",
+  "name": "Dr. A M Rejaus Satter",
+  "degrees": [
+   "MBBS",
+   "FCPS (Surgery)",
+   "MS (Neurosurgery)"
+  ],
+  "specialties": [
+   "Neurosurgeon"
+  ],
+  "experienceYears": 19,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Abdominal aortic aneurysms",
+   "Anterior Cervical Discectomy and Fusion (ACDF)",
+   "Blood Clots",
+   "Brain Tumors",
+   "Chiari Decompression",
+   "Cranioplasty",
+   "Deep Brain Stimulation (DBS)",
+   "Endovascular Coiling"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-a-m-rejaus-satter"
+ },
+ {
+  "slug": "dr-md-sirazul-haque-ershad",
+  "srcSlug": "dr-md-sirazul-haque-ershad",
+  "name": "Dr. Md. Sirazul Haque Ershad",
+  "degrees": [
+   "MBBS",
+   "MS (Neurosurgery)"
+  ],
+  "specialties": [
+   "Neurosurgeon"
+  ],
+  "experienceYears": 18,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Abdominal aortic aneurysms",
+   "Anterior Cervical Discectomy and Fusion (ACDF)",
+   "Blood Clots",
+   "Brain Tumors",
+   "Chiari Decompression",
+   "Cranioplasty",
+   "Deep Brain Stimulation (DBS)",
+   "Endovascular Coiling"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-md-sirazul-haque-ershad"
+ },
+ {
+  "slug": "dr-arunangshu-das",
+  "srcSlug": "dr-arunangshu-das",
+  "name": "Dr. Arunangshu Das",
+  "degrees": [
+   "MBBS",
+   "FCPS"
+  ],
+  "specialties": [
+   "Oncologist"
+  ],
+  "experienceYears": 17,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Sun",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Mon",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Tue",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Wed",
+      "start": "19:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Thu",
+      "start": "19:00",
+      "end": "21:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Adnexal Tumors",
+   "Adrenal Cancer",
+   "Bladder Cancer",
+   "Bone-marrow Transfusion",
+   "Colorectal Cancer",
+   "Gastrointestinal Stromal Tumors (GIST)",
+   "Gynecologic Oncology",
+   "Hodgkin's Lymphoma"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-arunangshu-das"
+ },
+ {
+  "slug": "dr-md-salim-reza",
+  "srcSlug": "dr-md-salim-reza",
+  "name": "Dr. Md. Salim Reza",
+  "degrees": [
+   "MBBS",
+   "DMRT",
+   "FCPS"
+  ],
+  "specialties": [
+   "Oncologist"
+  ],
+  "experienceYears": 28,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Sun",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Mon",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Tue",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Wed",
+      "start": "20:00",
+      "end": "22:00"
+     },
+     {
+      "day": "Thu",
+      "start": "20:00",
+      "end": "22:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Adnexal Tumors",
+   "Adrenal Cancer",
+   "Bladder Cancer",
+   "Bone-marrow Transfusion",
+   "Colorectal Cancer",
+   "Gastrointestinal Stromal Tumors (GIST)",
+   "Gynecologic Oncology",
+   "Hodgkin's Lymphoma"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-md-salim-reza"
+ },
+ {
+  "slug": "prof-syed-md-akram-hussain",
+  "srcSlug": "prof-syed-md-akram-hussain",
+  "name": "Prof. Syed Md. Akram Hussain",
+  "degrees": [
+   "MBBS",
+   "FCPS",
+   "FRCP (Glasgow)",
+   "FRCP (Edinburgh)",
+   "FACP (USA)"
+  ],
+  "specialties": [
+   "MRCR (UK)",
+   "Oncologist"
+  ],
+  "experienceYears": 32,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Adnexal Tumors",
+   "Adrenal Cancer",
+   "Bladder Cancer",
+   "Bone-marrow Transfusion",
+   "Colorectal Cancer",
+   "Gastrointestinal Stromal Tumors (GIST)",
+   "Gynecologic Oncology",
+   "Hodgkin's Lymphoma"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-syed-md-akram-hussain"
+ },
+ {
+  "slug": "prof-dr-m-a-rashid",
+  "srcSlug": "prof-dr-m-a-rashid",
+  "name": "Prof. Dr. M. A. Rashid",
+  "degrees": [
+   "MBBS",
+   "FCPS (Specialist Pain, Paralysis & Rheumatic Diseases)"
+  ],
+  "specialties": [
+   "Physical Medicine"
+  ],
+  "experienceYears": 23,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "17:00",
+      "end": "19:30"
+     },
+     {
+      "day": "Sun",
+      "start": "17:00",
+      "end": "19:30"
+     },
+     {
+      "day": "Mon",
+      "start": "17:00",
+      "end": "19:30"
+     },
+     {
+      "day": "Tue",
+      "start": "17:00",
+      "end": "19:30"
+     },
+     {
+      "day": "Wed",
+      "start": "17:00",
+      "end": "19:30"
+     },
+     {
+      "day": "Thu",
+      "start": "11:00",
+      "end": "13:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Amyotrophic Lateral Sclerosis (ALS)",
+   "Carpal Tunnel Syndrome",
+   "Chronic Fatigue Syndrome",
+   "Degenerative Disc Disease",
+   "Joints Problem",
+   "Ligaments Problem",
+   "Meniscus Tear",
+   "Multiple Sclerosis (MS)"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-dr-m-a-rashid"
+ },
+ {
+  "slug": "prof-dr-sohely-rahman",
+  "srcSlug": "prof-dr-sohely-rahman",
+  "name": "Prof. Dr. Sohely Rahman",
+  "degrees": [
+   "MBBS",
+   "FCPS (Physical Medicine)"
+  ],
+  "specialties": [
+   "Physical Medicine"
+  ],
+  "experienceYears": 32,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Amyotrophic Lateral Sclerosis (ALS)",
+   "Carpal Tunnel Syndrome",
+   "Chronic Fatigue Syndrome",
+   "Degenerative Disc Disease",
+   "Joints Problem",
+   "Ligaments Problem",
+   "Meniscus Tear",
+   "Multiple Sclerosis (MS)"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-dr-sohely-rahman"
+ },
+ {
+  "slug": "dr-sheikh-nafis-ur-rahman",
+  "srcSlug": "dr-sheikh-nafis-ur-rahman",
+  "name": "Dr. Sheikh Nafis - ur Rahman",
+  "degrees": [
+   "MBBS",
+   "MD (R&I)"
+  ],
+  "specialties": [
+   "Radiologist"
+  ],
+  "experienceYears": 19,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Breast ultrasound",
+   "Chest Radiology",
+   "Computed Tomography (Ct)",
+   "Enchondroma",
+   "Gallbladder Cancer",
+   "Interventional Diagnostic",
+   "Magnetic Resonance Imaging (MRI)",
+   "Osteochondroma"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-sheikh-nafis-ur-rahman"
+ },
+ {
+  "slug": "prof-brig-gen-retd-jahangir-alam",
+  "srcSlug": "prof-brig-gen-retd-jahangir-alam",
+  "name": "Prof. Brig Gen (Retd.) Jahangir Alam",
+  "degrees": [
+   "MBBS",
+   "MCPS",
+   "FCPS"
+  ],
+  "specialties": [
+   "Radiologist"
+  ],
+  "experienceYears": 29,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "21:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Breast ultrasound",
+   "Chest Radiology",
+   "Computed Tomography (Ct)",
+   "Enchondroma",
+   "Gallbladder Cancer",
+   "Interventional Diagnostic",
+   "Magnetic Resonance Imaging (MRI)",
+   "Osteochondroma"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-brig-gen-retd-jahangir-alam"
+ },
+ {
+  "slug": "dr-shoheli-sultana",
+  "srcSlug": "dr-shoheli-sultana",
+  "name": "Dr. Shoheli Sultana",
+  "degrees": [
+   "MBBS",
+   "MD"
+  ],
+  "specialties": [
+   "Radiologist"
+  ],
+  "experienceYears": 18,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Sun",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Mon",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Tue",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Wed",
+      "start": "16:00",
+      "end": "18:00"
+     },
+     {
+      "day": "Thu",
+      "start": "16:00",
+      "end": "18:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Breast ultrasound",
+   "Computed Tomography (Ct)",
+   "Enchondroma",
+   "Gallbladder Cancer",
+   "Interventional Diagnostic",
+   "Magnetic Resonance Imaging (MRI)",
+   "Osteochondroma",
+   "Pancreatic Cancer"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-shoheli-sultana"
+ },
+ {
+  "slug": "dr-manjuma-rahman",
+  "srcSlug": "dr-manjuma-rahman",
+  "name": "Dr. Manjuma Rahman",
+  "degrees": [
+   "MBBS",
+   "MD"
+  ],
+  "specialties": [
+   "Hematologist"
+  ],
+  "experienceYears": 21,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "18:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Sun",
+      "start": "18:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Mon",
+      "start": "18:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Tue",
+      "start": "18:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Wed",
+      "start": "18:00",
+      "end": "21:00"
+     },
+     {
+      "day": "Thu",
+      "start": "18:00",
+      "end": "21:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Anemia",
+   "Blood Clots",
+   "Blood Transfusion",
+   "Bone marrow failure syndromes",
+   "Coagulation Disorders",
+   "Hemochromatosis (Excess Iron)",
+   "Hemoglobinopathies (e.g., HbS, HbC)",
+   "Hemolytic anemia"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-manjuma-rahman"
+ },
+ {
+  "slug": "prof-dr-md-faqrul-islam-khaled",
+  "srcSlug": "prof-dr-md-faqrul-islam-khaled",
+  "name": "Prof. Dr. Md. Faqrul Islam Khaled",
+  "degrees": [
+   "MBBS",
+   "CCD",
+   "MD (Cardiology)"
+  ],
+  "specialties": [
+   "Cardiologist"
+  ],
+  "experienceYears": 22,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Popular Diagnostic Centre Ltd. | Dhanmondi",
+    "address": "House #16, Road # 2, Dhanmondi R/A, 6, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": []
+   }
+  ],
+  "services": [
+   "Cardiac Ablation",
+   "Cardiac Ablation",
+   "Cardiac Anesthesia",
+   "Cardiac Disease",
+   "Cardiac Invasive Procedures",
+   "Cardiac Medicine",
+   "Cardiac MRI",
+   "Cardiac Pacing"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/prof-dr-md-faqrul-islam-khaled"
+ },
+ {
+  "slug": "mrs-sharmin-haque",
+  "srcSlug": "mrs-sharmin-haque",
+  "name": "Mrs. Sharmin Haque",
+  "degrees": [
+   "Msc"
+  ],
+  "specialties": [
+   "M.Phil in Clinical Psychology",
+   "Psychiatrist"
+  ],
+  "experienceYears": 14,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": []
+   }
+  ],
+  "services": [
+   "Abnormal Behaviour",
+   "Adult Counselling",
+   "Alzheimer's Disease",
+   "Anger Problems",
+   "Autism",
+   "Bipolar Disorder Treatment",
+   "Depression and Anxiety",
+   "Drug Abuse"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/mrs-sharmin-haque"
+ },
+ {
+  "slug": "brig-gen-prof-dr-md-liakat-ali-hyder",
+  "srcSlug": "brig-gen-prof-dr-md-liakat-ali-hyder",
+  "name": "Brig Gen Prof. Dr. Md Liakat Ali Hyder",
+  "degrees": [
+   "BDS",
+   "FCPS (Orthodontics and Dentofacial Orthopedics)",
+   "MMed"
+  ],
+  "specialties": [
+   "Maxillofacial and Dental Surgeon"
+  ],
+  "experienceYears": null,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [
+   {
+    "name": "Square Hospitals Ltd",
+    "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, 12, Dhanmondi, Dhaka-1205, Bangladesh",
+    "district": "Dhaka",
+    "room": null,
+    "phone": null,
+    "fee": null,
+    "followUpFee": null,
+    "schedule": [
+     {
+      "day": "Sat",
+      "start": "09:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Sun",
+      "start": "09:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Mon",
+      "start": "09:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Tue",
+      "start": "09:00",
+      "end": "20:00"
+     },
+     {
+      "day": "Wed",
+      "start": "09:00",
+      "end": "20:00"
+     }
+    ]
+   }
+  ],
+  "services": [
+   "Dental Caries",
+   "Dental Fillings",
+   "Dental Braces Fixing",
+   "Dental Crowns",
+   "Dental Implants",
+   "Dental and Maxillofacial",
+   "Dental and Maxillofacial Implant",
+   "Impacted Tooth Extraction"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/brig-gen-prof-dr-md-liakat-ali-hyder"
+ },
+ {
+  "slug": "dr-razia-parvin",
+  "srcSlug": "dr-razia-parvin",
+  "name": "Dr. Razia Parvin",
+  "degrees": [
+   "MBBS",
+   "FCPS (Gyn & Obs)"
+  ],
+  "specialties": [
+   "Gynecologist & Obstetrician"
+  ],
+  "experienceYears": 17,
+  "bmdcRegNo": null,
+  "phone": null,
+  "chambers": [],
+  "services": [
+   "Bacterial Vaginosis",
+   "Dysmenorrhea (Menstrual Disorder)",
+   "Embolization",
+   "Female Sexual Dysfunction",
+   "Gynae Problems",
+   "Hormone Dirtubances",
+   "Hysteroscopy",
+   "Menorrhagia (Menstrual Disorder)"
+  ],
+  "source": "sasthyaseba.com",
+  "sourceUrl": "https://sasthyaseba.com/doctors/dr-razia-parvin"
+ }
+]

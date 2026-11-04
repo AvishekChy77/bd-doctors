@@ -13,7 +13,10 @@ const Field = ({ label, children }) => (
 const selectCls =
   'w-full rounded-xl border border-slate-200 bg-white px-3 py-2.5 text-sm font-medium outline-none transition focus:border-brand-500 focus:ring-2 focus:ring-brand-500/20 dark:border-white/10 dark:bg-slate-900';
 
-export default function FilterPanel({ filters, setFilters }) {
+export default function FilterPanel({ filters, setFilters, specialtyOptions }) {
+  const specs = specialtyOptions?.length
+    ? specialtyOptions
+    : SPECIALTIES.map((s) => s.name);
   const set = (key) => (e) =>
     setFilters((f) => ({ ...f, [key]: e.target.value }));
 
@@ -37,8 +40,8 @@ export default function FilterPanel({ filters, setFilters }) {
       <Field label="Specialty">
         <select value={filters.specialty} onChange={set('specialty')} className={selectCls}>
           <option value="">All specialties</option>
-          {SPECIALTIES.map((s) => (
-            <option key={s.name} value={s.name}>{s.name}</option>
+          {specs.map((name) => (
+            <option key={name} value={name}>{name}</option>
           ))}
         </select>
       </Field>

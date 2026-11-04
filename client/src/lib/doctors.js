@@ -1,5 +1,8 @@
-// ⚠️ DEMO DATA — every doctor below is fictional. Hospitals are real institutions
-// named for illustration only; phones & BMDC numbers are placeholders.
+// ⚠️ The doctors in THIS file are fictional demo entries (hospitals are real
+// institutions named for illustration). Real listings live in realDoctors.js.
+// Demo entries carry NO fees, schedules, phones or BMDC numbers — those were
+// placeholders and are stripped below; the UI shows "not published" instead.
+import { REAL_DOCTORS } from './realDoctors.js';
 
 const HAND_WRITTEN = [
   {
@@ -653,8 +656,23 @@ const FEATURED = new Set([
   'dr-tahmina-sultana',
 ]);
 
-export const DOCTORS = [...HAND_WRITTEN, ...GENERATED].map((d, i) => ({
+const DEMO_DOCTORS = [...HAND_WRITTEN, ...GENERATED].map((d, i) => ({
   ...d,
+  // demo entries: invented specifics removed — unknown shows as "not published"
+  phone: null,
+  email: null,
+  bmdcRegNo: null,
+  source: 'demo',
+  sourceUrl: null,
+  services: [],
+  chambers: d.chambers.map((c) => ({
+    ...c,
+    room: null,
+    phone: null,
+    fee: null,
+    followUpFee: null,
+    schedule: [],
+  })),
   featured: FEATURED.has(d.slug),
   reviews:
     d.reviews ??
@@ -665,4 +683,11 @@ export const DOCTORS = [...HAND_WRITTEN, ...GENERATED].map((d, i) => ({
       date: `2025-${String(((i + k) % 12) + 1).padStart(2, '0')}-15`,
     })),
 }));
+
+// a real imported doctor always wins over a demo entry with the same slug
+const realSlugs = new Set(REAL_DOCTORS.map((d) => d.slug));
+export const DOCTORS = [
+  ...REAL_DOCTORS,
+  ...DEMO_DOCTORS.filter((d) => !realSlugs.has(d.slug)),
+];
 
