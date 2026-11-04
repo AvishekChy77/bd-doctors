@@ -8,7 +8,8 @@
     "dev:client": "npm --prefix client run dev",
     "dev:server": "npm --prefix server run dev",
     "build": "npm --prefix client run build",
-    "deploy": "node scripts/deploy.mjs",
+    "deploy": "netlify deploy --build --prod",
+    "deploy:ghpages": "node scripts/deploy.mjs",
     "seed": "npm --prefix server run seed",
     "install:all": "npm --prefix client install && npm --prefix server install"
   },

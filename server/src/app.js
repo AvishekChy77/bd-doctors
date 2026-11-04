@@ -19,7 +19,11 @@ function requireDB(_req, res, next) {
 }
 
 app.get('/api/health', (_req, res) =>
-  res.json({ ok: true, db: dbConnected() ? 'connected' : 'disconnected' }),
+  res.json({
+    ok: true,
+    db: dbConnected() ? 'connected' : 'disconnected',
+    ...(dbConnected() ? {} : { dbErr: globalThis.__dbErr ?? null, hasUri: Boolean(process.env.MONGODB_URI) }),
+  }),
 );
 
 // require a live DB for data routes so the client can fall back cleanly
