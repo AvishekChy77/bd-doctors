@@ -12,6 +12,12 @@
     "seed": "npm --prefix server run seed",
     "install:all": "npm --prefix client install && npm --prefix server install"
   },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.9.0",
+    "serverless-http": "^4.0.0"
+  },
   "devDependencies": {
     "concurrently": "^9.1.0"
   }
